@@ -5,7 +5,7 @@
     "id": 1,
     "num": "001",
     "name": "Goku",
-    "img": "assets/img/goku.png",
+    "img": "assets/goku.png",
     "type": [
       "Grass",
       "Poison"
@@ -36,7 +36,7 @@
     "id": 2,
     "num": "002",
     "name": "Vegeta",
-    "img": "assets/img/vegeta.png",
+    "img": "assets/vegeta.png",
     "type": [
       "Grass",
       "Poison"

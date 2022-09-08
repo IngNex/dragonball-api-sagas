@@ -5,7 +5,7 @@
     "id": 1,
     "num": "001",
     "name": "Goku",
-    "img": "assets/images/goku.png",
+    "img": "./assets/img/goku.png",
     "type": [
       "Grass",
       "Poison"

@@ -5,7 +5,7 @@
     "id": 1,
     "num": "001",
     "name": "Goku",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/public/assets/goku_z.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_z.png",
     "type": [
       "Grass",
       "Poison"
@@ -36,7 +36,7 @@
     "id": 2,
     "num": "002",
     "name": "Vegeta",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/public/assets/vegeta.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta.png",
     "type": [
       "Grass",
       "Poison"
@@ -71,7 +71,7 @@
     "id": 3,
     "num": "003",
     "name": "Raditz",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/public/assets/raditz.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/raditz.png",
     "type": [
       "Grass",
       "Poison"

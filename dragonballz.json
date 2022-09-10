@@ -312,8 +312,8 @@
   {
     "id": 11,
     "num": "011",
-    "name": "Metapod",
-    "img": "http://www.serebii.net/pokemongo/pokemon/011.png",
+    "name": "Napa",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/napa.png",
     "type": [
       "Bug"
     ],
@@ -346,8 +346,8 @@
   {
     "id": 12,
     "num": "012",
-    "name": "Butterfree",
-    "img": "http://www.serebii.net/pokemongo/pokemon/012.png",
+    "name": "Vegeta",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta.png",
     "type": [
       "Bug",
       "Flying"
@@ -378,8 +378,8 @@
   {
     "id": 13,
     "num": "013",
-    "name": "Weedle",
-    "img": "http://www.serebii.net/pokemongo/pokemon/013.png",
+    "name": "Goku Genkidama",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_frieze.png",
     "type": [
       "Bug",
       "Poison"
@@ -413,8 +413,8 @@
   {
     "id": 14,
     "num": "014",
-    "name": "Kakuna",
-    "img": "http://www.serebii.net/pokemongo/pokemon/014.png",
+    "name": "Vegeta Power",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta_I.png",
     "type": [
       "Bug",
       "Poison"
@@ -449,8 +449,8 @@
   {
     "id": 15,
     "num": "015",
-    "name": "Beedrill",
-    "img": "http://www.serebii.net/pokemongo/pokemon/015.png",
+    "name": "Gohan Sayajin",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gohan_I.png",
     "type": [
       "Bug",
       "Poison"

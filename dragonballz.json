@@ -6,7 +6,7 @@
     "id": 1,
     "num": "001",
     "name": "Goku",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_z.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku.png",
     "type": [
       "Grass",
       "Poison"

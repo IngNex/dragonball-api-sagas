@@ -224,8 +224,8 @@
   {
     "id": 8,
     "num": "008",
-    "name": "Wartortle",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/008.png",
+    "name": "Yajirobe",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/yajirobe.png",
     "type": [
       "Water"
     ],
@@ -254,8 +254,8 @@
   {
     "id": 9,
     "num": "009",
-    "name": "Yajirobe",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/yajirobe.png",
+    "name": "Raditz",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/raditz.png",
     "type": [
       "Water"
     ],
@@ -282,8 +282,8 @@
   {
     "id": 10,
     "num": "010",
-    "name": "Raditz",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/raditz.png",
+    "name": "Saibamen",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/saibamen.png",
     "type": [
       "Bug"
     ],

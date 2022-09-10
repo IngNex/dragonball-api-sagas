@@ -165,8 +165,8 @@
   {
     "id": 6,
     "num": "006",
-    "name": "Tenin Shinha",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/teninshinha.png",
+    "name": "Tein Shinha",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/teinshinha.png",
     "type": [
       "Fire",
       "Flying"
@@ -196,7 +196,7 @@
     "id": 7,
     "num": "007",
     "name": "Chiaotzu",
-    "img": "http://www.serebii.net/pokemongo/pokemon/chiaotzu.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/chiaotzu.png",
     "type": [
       "Water"
     ],
@@ -225,7 +225,7 @@
     "id": 8,
     "num": "008",
     "name": "Wartortle",
-    "img": "http://www.serebii.net/pokemongo/pokemon/008.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/008.png",
     "type": [
       "Water"
     ],
@@ -254,8 +254,8 @@
   {
     "id": 9,
     "num": "009",
-    "name": "Blastoise",
-    "img": "http://www.serebii.net/pokemongo/pokemon/009.png",
+    "name": "Yajirobe",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/yajirobe.png",
     "type": [
       "Water"
     ],
@@ -282,8 +282,8 @@
   {
     "id": 10,
     "num": "010",
-    "name": "Caterpie",
-    "img": "http://www.serebii.net/pokemongo/pokemon/010.png",
+    "name": "Raditz",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/raditz.png",
     "type": [
       "Bug"
     ],

@@ -378,7 +378,7 @@
   {
     "id": 13,
     "num": "013",
-    "name": "Goku Genkidama",
+    "name": "Goku II",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_frieze.png",
     "type": [
       "Bug",
@@ -413,7 +413,7 @@
   {
     "id": 14,
     "num": "014",
-    "name": "Vegeta Power",
+    "name": "Vegeta II",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta_I.png",
     "type": [
       "Bug",
@@ -449,7 +449,7 @@
   {
     "id": 15,
     "num": "015",
-    "name": "Gohan Sayajin",
+    "name": "Gohan II",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gohan_I.png",
     "type": [
       "Bug",
@@ -480,8 +480,8 @@
   {
     "id": 16,
     "num": "016",
-    "name": "Pidgey",
-    "img": "http://www.serebii.net/pokemongo/pokemon/016.png",
+    "name": "Krillin II",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/krillin_I.png",
     "type": [
       "Normal",
       "Flying"
@@ -513,8 +513,8 @@
   {
     "id": 17,
     "num": "017",
-    "name": "Pidgeotto",
-    "img": "http://www.serebii.net/pokemongo/pokemon/017.png",
+    "name": "Nail",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/nail.png",
     "type": [
       "Normal",
       "Flying"

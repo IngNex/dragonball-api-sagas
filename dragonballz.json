@@ -11,8 +11,8 @@
       "Grass",
       "Poison"
     ],
-    "height": "0.71 m",
-    "weight": "6.9 kg",
+    "height": "1.75 m",
+    "weight": "62.0 kg",
     "candy": "Bulbasaur Candy",
     "candy_count": 25,
     "egg": "2 km",
@@ -37,14 +37,14 @@
   {
     "id": 2,
     "num": "002",
-    "name": "Picolo",
+    "name": "Piccolo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/picolo.png",
     "type": [
       "Grass",
       "Poison"
     ],
-    "height": "0.99 m",
-    "weight": "13.0 kg",
+    "height": "2.26 m",
+    "weight": "116.0 kg",
     "candy": "Bulbasaur Candy",
     "candy_count": 100,
     "egg": "Not in Eggs",
@@ -79,8 +79,8 @@
       "Grass",
       "Poison"
     ],
-    "height": "2.01 m",
-    "weight": "100.0 kg",
+    "height": "1.1 m",
+    "weight": "30.0 kg",
     "candy": "Bulbasaur Candy",
     "egg": "Not in Eggs",
     "spawn_chance": 0.017,
@@ -109,8 +109,8 @@
     "type": [
       "Fire"
     ],
-    "height": "0.61 m",
-    "weight": "8.5 kg",
+    "height": "1.53 m",
+    "weight": "48.0 kg",
     "candy": "Charmander Candy",
     "candy_count": 25,
     "egg": "2 km",

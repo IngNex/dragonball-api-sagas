@@ -134,13 +134,13 @@
   {
     "id": 5,
     "num": "005",
-    "name": "yamcha",
+    "name": "Yamcha",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/yamcha.png",
     "type": [
       "Fire"
     ],
-    "height": "1.09 m",
-    "weight": "19.0 kg",
+    "height": "1.83 m",
+    "weight": "68.0 kg",
     "candy": "Charmander Candy",
     "candy_count": 100,
     "egg": "Not in Eggs",
@@ -165,14 +165,14 @@
   {
     "id": 6,
     "num": "006",
-    "name": "Tein Shinha",
+    "name": "Tein ShinHan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/teinshinha.png",
     "type": [
       "Fire",
       "Flying"
     ],
-    "height": "1.70 m",
-    "weight": "90.5 kg",
+    "height": "1.87 m",
+    "weight": "75.0 kg",
     "candy": "Charmander Candy",
     "egg": "Not in Eggs",
     "spawn_chance": 0.0031,
@@ -195,13 +195,13 @@
   {
     "id": 7,
     "num": "007",
-    "name": "Chiaotzu",
+    "name": "Chaoz",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/chiaotzu.png",
     "type": [
       "Water"
     ],
-    "height": "0.51 m",
-    "weight": "9.0 kg",
+    "height": "1.38 m",
+    "weight": "33 kg",
     "candy": "Squirtle Candy",
     "candy_count": 25,
     "egg": "2 km",

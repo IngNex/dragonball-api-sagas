@@ -544,8 +544,8 @@
   {
     "id": 18,
     "num": "018",
-    "name": "Pidgeot",
-    "img": "http://www.serebii.net/pokemongo/pokemon/018.png",
+    "name": "Piccolo",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/picolo_frieze.png",
     "type": [
       "Normal",
       "Flying"
@@ -573,8 +573,8 @@
   {
     "id": 19,
     "num": "019",
-    "name": "Rattata",
-    "img": "http://www.serebii.net/pokemongo/pokemon/019.png",
+    "name": "Dodoria",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/dodoria.png",
     "type": [
       "Normal"
     ],
@@ -601,8 +601,8 @@
   {
     "id": 20,
     "num": "020",
-    "name": "Raticate",
-    "img": "http://www.serebii.net/pokemongo/pokemon/020.png",
+    "name": "Zarbon",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/zarbon.png",
     "type": [
       "Normal"
     ],
@@ -625,8 +625,8 @@
   {
     "id": 21,
     "num": "021",
-    "name": "Spearow",
-    "img": "http://www.serebii.net/pokemongo/pokemon/021.png",
+    "name": "Goldo",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goldo.png",
     "type": [
       "Normal",
       "Flying"

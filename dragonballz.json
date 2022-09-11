@@ -625,8 +625,8 @@
   {
     "id": 21,
     "num": "021",
-    "name": "Goldo",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goldo.png",
+    "name": "Guldo",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/guldo.png",
     "type": [
       "Normal",
       "Flying"
@@ -655,8 +655,8 @@
   {
     "id": 22,
     "num": "022",
-    "name": "Fearow",
-    "img": "http://www.serebii.net/pokemongo/pokemon/022.png",
+    "name": "Recoome",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/recoome.png",
     "type": [
       "Normal",
       "Flying"
@@ -681,8 +681,8 @@
   {
     "id": 23,
     "num": "023",
-    "name": "Ekans",
-    "img": "http://www.serebii.net/pokemongo/pokemon/023.png",
+    "name": "Burter",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/burter.png",
     "type": [
       "Poison"
     ],
@@ -710,8 +710,8 @@
   {
     "id": 24,
     "num": "024",
-    "name": "Arbok",
-    "img": "http://www.serebii.net/pokemongo/pokemon/024.png",
+    "name": "Jiece",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/jiece.png",
     "type": [
       "Poison"
     ],
@@ -735,8 +735,8 @@
   {
     "id": 25,
     "num": "025",
-    "name": "Pikachu",
-    "img": "http://www.serebii.net/pokemongo/pokemon/025.png",
+    "name": "Giyu",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/giyu.png",
     "type": [
       "Electric"
     ],

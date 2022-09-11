@@ -710,8 +710,8 @@
   {
     "id": 24,
     "num": "024",
-    "name": "Jiece",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/jiece.png",
+    "name": "Jeice",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/jeice.png",
     "type": [
       "Poison"
     ],
@@ -756,5 +756,106 @@
       "num": "026",
       "name": "Raichu"
     }]
-  }]
+  },
+  {
+    "id": 25,
+    "num": "025",
+    "name": "Freezer",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/frieze.png",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.41 m",
+    "weight": "6.0 kg",
+    "candy": "Pikachu Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 0.21,
+    "avg_spawns": 21,
+    "spawn_time": "04:00",
+    "multipliers": [2.34],
+    "weaknesses": [
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "026",
+      "name": "Raichu"
+    }]
+  },
+  {
+    "id": 25,
+    "num": "025",
+    "name": "Freezer II",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/frieze_II.png",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.41 m",
+    "weight": "6.0 kg",
+    "candy": "Pikachu Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 0.21,
+    "avg_spawns": 21,
+    "spawn_time": "04:00",
+    "multipliers": [2.34],
+    "weaknesses": [
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "026",
+      "name": "Raichu"
+    }]
+  },
+  {
+    "id": 25,
+    "num": "025",
+    "name": "Freezer III",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/frieze_III.png",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.41 m",
+    "weight": "6.0 kg",
+    "candy": "Pikachu Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 0.21,
+    "avg_spawns": 21,
+    "spawn_time": "04:00",
+    "multipliers": [2.34],
+    "weaknesses": [
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "026",
+      "name": "Raichu"
+    }]
+  },
+  {
+    "id": 25,
+    "num": "025",
+    "name": "Freezer IV",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/frieze_final.png",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.41 m",
+    "weight": "6.0 kg",
+    "candy": "Pikachu Candy",
+    "candy_count": 50,
+    "egg": "2 km",
+    "spawn_chance": 0.21,
+    "avg_spawns": 21,
+    "spawn_time": "04:00",
+    "multipliers": [2.34],
+    "weaknesses": [
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "026",
+      "name": "Raichu"
+    }]
+  }
+]
 }

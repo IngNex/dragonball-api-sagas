@@ -758,7 +758,7 @@
     }]
   },
   {
-    "id": 25,
+    "id": 26,
     "num": "025",
     "name": "Freezer",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer.png",
@@ -783,7 +783,7 @@
     }]
   },
   {
-    "id": 25,
+    "id": 27,
     "num": "025",
     "name": "Freezer II",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer_II.png",
@@ -808,7 +808,7 @@
     }]
   },
   {
-    "id": 25,
+    "id": 28,
     "num": "025",
     "name": "Freezer III",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer_III.png",
@@ -833,7 +833,7 @@
     }]
   },
   {
-    "id": 25,
+    "id": 29,
     "num": "025",
     "name": "Freezer IV",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer_final.png",

@@ -177,6 +177,7 @@
     "num": "006",
     "name": "Tein ShinHan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/teinshinha.png",
+    
     "type": [
       "Fire",
       "Flying"
@@ -207,6 +208,8 @@
     "num": "007",
     "name": "Chaoz",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/chiaotzu.png",
+    "species": "Alienigena",
+    "gender":"Masculino",
     "type": [
       "Water"
     ],
@@ -236,6 +239,8 @@
     "num": "008",
     "name": "Yajirobe",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/yajirobe.png",
+    "species": "Humano",
+    "gender":"Masculino",
     "type": [
       "Water"
     ],
@@ -266,6 +271,8 @@
     "num": "009",
     "name": "Raditz",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/raditz.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
     "type": [
       "Water"
     ],
@@ -294,6 +301,8 @@
     "num": "010",
     "name": "Saibamen",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/saibamen.png",
+    "species": "Alienigena",
+    "gender":"Masculino",
     "type": [
       "Bug"
     ],
@@ -324,6 +333,8 @@
     "num": "011",
     "name": "Napa",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/napa.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
     "type": [
       "Bug"
     ],
@@ -358,6 +369,8 @@
     "num": "012",
     "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
     "type": [
       "Bug",
       "Flying"

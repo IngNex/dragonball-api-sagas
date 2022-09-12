@@ -79,7 +79,7 @@
     "num": "003",
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gohan.png",
-    "species": "sayajin",
+    "species": "Hibrido",
     "gender":"Masculino",
     "type": [
       "Grass",
@@ -112,7 +112,7 @@
     "num": "004",
     "name": "krillin",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/krillin.png",
-    "species": "sayajin",
+    "species": "Humano",
     "gender":"Masculino",
     "type": [
       "Fire"
@@ -144,6 +144,8 @@
     "num": "005",
     "name": "Yamcha",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/yamcha.png",
+    "species": "Humano",
+    "gender":"Masculino",
     "type": [
       "Fire"
     ],

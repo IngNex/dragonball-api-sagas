@@ -7,6 +7,8 @@
     "num": "001",
     "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku.png",
+    "species": "sayajin",
+    "gender":"Masculino",
     "type": [
       "Grass",
       "Poison"
@@ -39,6 +41,8 @@
     "num": "002",
     "name": "Piccolo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/picolo.png",
+    "species": "sayajin",
+    "gender":"Masculino",
     "type": [
       "Grass",
       "Poison"
@@ -75,6 +79,8 @@
     "num": "003",
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gohan.png",
+    "species": "sayajin",
+    "gender":"Masculino",
     "type": [
       "Grass",
       "Poison"
@@ -106,6 +112,8 @@
     "num": "004",
     "name": "krillin",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/krillin.png",
+    "species": "sayajin",
+    "gender":"Masculino",
     "type": [
       "Fire"
     ],

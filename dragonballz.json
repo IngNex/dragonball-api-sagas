@@ -269,7 +269,7 @@
     "id": 26,
     "num": "025",
     "name": "Freezer",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/freezer.png",
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Freeza",
@@ -309,8 +309,29 @@
   {
     "id": 30,
     "num": "025",
+    "name": "Freezer Max",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/freezer100.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Freeza",
+    "saga": "Frizer"
+    
+  },
+  {
+    "id": 31,
+    "num": "025",
     "name": "Goku SSJ",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_sssj.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Frizer"
+  },
+  {
+    "id": 32,
+    "num": "025",
+    "name": "Goku SSJMax",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_sssjmax.png",
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",

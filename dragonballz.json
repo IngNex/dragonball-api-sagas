@@ -16,7 +16,8 @@
     "name": "Piccolo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/picolo.png",
     "species": "sayajin",
-    "gender":"Masculino"
+    "gender":"Masculino",
+    "planet": "Namek"
     
   }, 
   {
@@ -25,7 +26,8 @@
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gohan.png",
     "species": "Hibrido",
-    "gender":"Masculino"
+    "gender":"Masculino",
+    "planet": "Tierra"
   }, 
   {
     "id": 4,
@@ -33,7 +35,8 @@
     "name": "krillin",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/krillin.png",
     "species": "Humano",
-    "gender":"Masculino"
+    "gender":"Masculino",
+    "planet": "Tierra"
     
   },
   {
@@ -42,7 +45,9 @@
     "name": "Yamcha",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/yamcha.png",
     "species": "Humano",
-    "gender":"Masculino"
+    "gender":"Masculino",
+    "planet": "Tierra"
+    
     
   },
   {
@@ -50,8 +55,9 @@
     "num": "006",
     "name": "Tein ShinHan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/teinshinha.png",
-    "species": "Humano",
-    "gender":"Masculino"
+    "species": "Alienigena",
+    "gender":"Masculino",
+    "planet": "Tierra"
   },
   {
     "id": 7,
@@ -59,7 +65,8 @@
     "name": "Chaoz",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/chiaotzu.png",
     "species": "Alienigena",
-    "gender":"Masculino"
+    "gender":"Masculino",
+    "planet": "Tierra"
     
   },
   {
@@ -68,7 +75,8 @@
     "name": "Yajirobe",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/yajirobe.png",
     "species": "Humano",
-    "gender":"Masculino"
+    "gender":"Masculino",
+    "planet": "Tierra"
     
   }, 
   {
@@ -77,8 +85,8 @@
     "name": "Raditz",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/raditz.png",
     "species": "Sayajin",
-    "gender":"Masculino"
-    
+    "gender":"Masculino",
+    "planet": "Vegeta"
   }, 
   {
     "id": 10,
@@ -86,7 +94,8 @@
     "name": "Saibamen",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/saibamen.png",
     "species": "Alienigena",
-    "gender":"Masculino"
+    "gender":"Masculino",
+    "planet": "Extraterrestre"
   }, 
   {
     "id": 11,
@@ -94,7 +103,8 @@
     "name": "Napa",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/napa.png",
     "species": "Sayajin",
-    "gender":"Masculino"
+    "gender":"Masculino",
+    "planet": "Vegeta"
   }, 
   {
     "id": 12,
@@ -102,121 +112,170 @@
     "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta.png",
     "species": "Sayajin",
-    "gender":"Masculino"
-    
+    "gender":"Masculino",
+    "planet": "Vegeta"
   }, 
   {
     "id": 13,
     "num": "013",
     "name": "Goku II",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_frieze.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_frieze.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Tierra"
   }, 
   {
     "id": 14,
     "num": "014",
     "name": "Vegeta II",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta_I.png"
-    
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta_I.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegeta"
   }, 
   {
     "id": 15,
     "num": "015",
     "name": "Gohan II",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gohan_I.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gohan_I.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra"
     
   }, 
   {
     "id": 16,
     "num": "016",
     "name": "Krillin II",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/krillin_I.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/krillin_I.png",
+    "species": "Humano",
+    "gender":"Masculino",
+    "planet": "Tierra"
     
   }, 
   {
     "id": 17,
     "num": "017",
     "name": "Nail",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/nail.png"
-    
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/nail.png",
+    "species": "Namekusei",
+    "gender":"Masculino",
+    "planet": "Namek"
   }, 
   {
     "id": 18,
     "num": "018",
     "name": "Piccolo",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/picolo_frieze.png"  
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/picolo_frieze.png",
+    "species": "Namekusei",
+    "gender":"Masculino",
+    "planet": "Namek"  
   }, 
   {
     "id": 19,
     "num": "019",
     "name": "Dodoria",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/dodoria.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/dodoria.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Freeza"
     
   }, 
   {
     "id": 20,
     "num": "020",
     "name": "Zarbon",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/zarbon.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/zarbon.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Freeza"
     
   }, 
   {
     "id": 21,
     "num": "021",
     "name": "Guldo",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/guldo.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/guldo.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Freeza"
     
   }, 
   {
     "id": 22,
     "num": "022",
     "name": "Recoome",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/recoome.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/recoome.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Freeza"
     
   }, 
   {
     "id": 23,
     "num": "023",
     "name": "Burter",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/burter.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/burter.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Freeza"
     
   }, 
   {
     "id": 24,
     "num": "024",
     "name": "Jeice",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/jeice.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/jeice.png",
+    "species": "Brenchega",
+    "gender":"Masculino",
+    "planet": "Freeza"
     
   }, 
   {
     "id": 25,
     "num": "025",
     "name": "Giyu",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/giyu.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/giyu.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Freeza"
     
   },
   {
     "id": 26,
     "num": "025",
     "name": "Freezer",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Freeza"
   },
   {
     "id": 27,
     "num": "025",
     "name": "Freezer II",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer_II.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer_II.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Freeza"
   },
   {
     "id": 28,
     "num": "025",
     "name": "Freezer III",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer_III.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer_III.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Freeza"
   },
   {
     "id": 29,
     "num": "025",
     "name": "Freezer IV",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer_final.png"
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/friezer_final.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Freeza"
     
   }
 ]

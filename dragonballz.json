@@ -336,6 +336,16 @@
     "gender":"Masculino",
     "planet": "Vegita",
     "saga": "Freizer"
+  },
+  {
+    "id": 33,
+    "num": "033",
+    "name": "Goku Ssj",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gokussj.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Freizer"
   }
 ]
 }

@@ -320,8 +320,8 @@
   {
     "id": 31,
     "num": "031",
-    "name": "Goku Ssj",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_sssj.png",
+    "name": "Goku Kaioken",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_kaioken.png",
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
@@ -330,8 +330,8 @@
   {
     "id": 32,
     "num": "032",
-    "name": "Goku SsjMax",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_sssjmax.png",
+    "name": "Goku Ssj",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_sssj.png",
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
@@ -340,6 +340,16 @@
   {
     "id": 33,
     "num": "033",
+    "name": "Goku SsjMax",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_sssjmax.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Freizer"
+  },
+  {
+    "id": 34,
+    "num": "034",
     "name": "Meca Friezer",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/freezer_mecha.png",
     "species": "Freeza",
@@ -348,8 +358,8 @@
     "saga": "Androide"
   },
   {
-    "id": 34,
-    "num": "034",
+    "id": 35,
+    "num": "035",
     "name": "King Cold",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/king_cold.png",
     "species": "Freeza",
@@ -358,8 +368,8 @@
     "saga": "Androide"
   },
   {
-    "id": 35,
-    "num": "035",
+    "id": 36,
+    "num": "036",
     "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/trunks_fut.png",
     "species": "Hibrido",
@@ -367,8 +377,8 @@
     "planet": "Tierra",
     "saga": "Androide"
   },{
-    "id": 36,
-    "num": "036",
+    "id": 37,
+    "num": "037",
     "name": "Trunks Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/trunks_futssj.png",
     "species": "Hibrido",
@@ -377,8 +387,8 @@
     "saga": "Androide"
   },
   {
-    "id": 37,
-    "num": "037",
+    "id": 38,
+    "num": "038",
     "name": "Goku Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gokussj.png",
     "species": "Sayajin",

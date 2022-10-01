@@ -340,6 +340,16 @@
   {
     "id": 33,
     "num": "033",
+    "name": "Meca Friezer",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/freezer_mecha.png",
+    "species": "Freeza",
+    "gender":"Masculino",
+    "planet": "Freeza",
+    "saga": "Freizer"
+  },
+  {
+    "id": 34,
+    "num": "034",
     "name": "Goku Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gokussj.png",
     "species": "Sayajin",

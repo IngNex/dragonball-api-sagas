@@ -345,17 +345,46 @@
     "species": "Freeza",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Androide"
   },
   {
     "id": 34,
     "num": "034",
+    "name": "King Cold",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/king_cold.png",
+    "species": "Freeza",
+    "gender":"Masculino",
+    "planet": "Freeza",
+    "saga": "Androide"
+  },
+  {
+    "id": 35,
+    "num": "035",
+    "name": "Trunks",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/trunks_fut.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Androide"
+  },{
+    "id": 36,
+    "num": "036",
+    "name": "Trunks Ssj",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/trunks_futssj.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Androide"
+  },
+  {
+    "id": 37,
+    "num": "037",
     "name": "Goku Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gokussj.png",
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Freizer"
+    "saga": "Androide"
   }
 ]
 }

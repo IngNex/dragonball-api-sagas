@@ -489,6 +489,36 @@
   {
     "id": 48,
     "num": "048",
+    "name": "Vegeta Ssj",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta_ssj.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Androide"
+  },
+  {
+    "id": 49,
+    "num": "049",
+    "name": "Androide N° 17",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/n17.png",
+    "species": "Humano",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Androide"
+  },
+  {
+    "id": 50,
+    "num": "050",
+    "name": "Androide N° 18",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/n18.png",
+    "species": "Humano",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Androide"
+  },
+  {
+    "id": 51,
+    "num": "051",
     "name": "Piccolo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/piccolo_cami_I.png",
     "species": "Nameku",

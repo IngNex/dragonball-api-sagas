@@ -415,6 +415,26 @@
     "gender":"Masculino",
     "planet": "Tierra",
     "saga": "Androide"
+  },
+  {
+    "id": 41,
+    "num": "041",
+    "name": "TeinShinHan",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/ten_android.png",
+    "species": "Humano",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Androide"
+  },
+  {
+    "id": 42,
+    "num": "042",
+    "name": "Gohan",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gohan_andr.png",
+    "species": "Humano",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Androide"
   }
 ]
 }

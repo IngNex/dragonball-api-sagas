@@ -431,9 +431,29 @@
     "num": "042",
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gohan_andr.png",
-    "species": "Humano",
+    "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
+    "saga": "Androide"
+  },
+  {
+    "id": 43,
+    "num": "043",
+    "name": "Piccolo",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/piccolo_cami.png",
+    "species": "Nameku",
+    "gender":"Masculino",
+    "planet": "Namek",
+    "saga": "Androide"
+  },
+  {
+    "id": 44,
+    "num": "044",
+    "name": "Piccolo",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/piccolo_cami_I.png",
+    "species": "Nameku",
+    "gender":"Masculino",
+    "planet": "Namek",
     "saga": "Androide"
   }
 ]

@@ -469,6 +469,26 @@
   {
     "id": 46,
     "num": "046",
+    "name": "Goku Ssj",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_ssj_andrII.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Androide"
+  },
+  {
+    "id": 47,
+    "num": "047",
+    "name": "Vegeta",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta_base.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Androide"
+  },
+  {
+    "id": 48,
+    "num": "048",
     "name": "Piccolo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/piccolo_cami_I.png",
     "species": "Nameku",

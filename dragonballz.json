@@ -395,6 +395,16 @@
     "gender":"Masculino",
     "planet": "Vegita",
     "saga": "Androide"
+  },
+  {
+    "id": 39,
+    "num": "039",
+    "name": "Yamcha",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/yamcha_andr.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Androide"
   }
 ]
 }

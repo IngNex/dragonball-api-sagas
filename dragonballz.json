@@ -455,6 +455,16 @@
     "gender":"Masculino",
     "planet": "Namek",
     "saga": "Androide"
+  },
+  {
+    "id": 45,
+    "num": "045",
+    "name": "Dr. Gero",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/n19.png",
+    "species": "Humano",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Androide"
   }
 ]
 }

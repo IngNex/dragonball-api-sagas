@@ -400,10 +400,20 @@
     "id": 39,
     "num": "039",
     "name": "Yamcha",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/yamcha_andr.png",
-    "species": "Sayajin",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/yancha_andr.png",
+    "species": "Humano",
     "gender":"Masculino",
     "planet": "Vegita",
+    "saga": "Androide"
+  },
+  {
+    "id": 40,
+    "num": "040",
+    "name": "Krillin",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/krillin_andro.png",
+    "species": "Humano",
+    "gender":"Masculino",
+    "planet": "Tierra",
     "saga": "Androide"
   }
 ]

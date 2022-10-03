@@ -549,6 +549,16 @@
   {
     "id": 54,
     "num": "054",
+    "name": "Cell II",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/cell_II.png",
+    "species": "Nameku",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Androide"
+  },
+  {
+    "id": 55,
+    "num": "055",
     "name": "Vegeta Super",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta_super.png",
     "species": "Sayajin",
@@ -557,8 +567,8 @@
     "saga": "Androide"
   },
   {
-    "id": 55,
-    "num": "055",
+    "id": 56,
+    "num": "056",
     "name": "Vegeta Power",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_super_cell.png",
     "species": "Sayajin",

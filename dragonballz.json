@@ -530,7 +530,7 @@
     "id": 52,
     "num": "052",
     "name": "Piccolo",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/piccolo_cami.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/piccolo_cami_andro.png",
     "species": "Nameku",
     "gender":"Masculino",
     "planet": "Namek",
@@ -544,6 +544,16 @@
     "species": "Nameku",
     "gender":"Masculino",
     "planet": "Tierra",
+    "saga": "Androide"
+  },
+  {
+    "id": 54,
+    "num": "054",
+    "name": "Vegeta Super",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta_super.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
     "saga": "Androide"
   }
 ]

@@ -544,7 +544,7 @@
     "species": "Nameku",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Androide"
+    "saga": "Cell"
   },
   {
     "id": 54,
@@ -554,7 +554,7 @@
     "species": "Nameku",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Androide"
+    "saga": "Cell"
   },
   {
     "id": 55,
@@ -564,7 +564,7 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Androide"
+    "saga": "Cell"
   },
   {
     "id": 56,
@@ -574,7 +574,7 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Androide"
+    "saga": "Cell"
   }
 ]
 }

@@ -5,7 +5,7 @@
     "id": 1,
     "num": "001",
     "name": "Goku",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/saga_sayajin/goku.png",
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegeta",

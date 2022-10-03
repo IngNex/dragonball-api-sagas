@@ -555,6 +555,16 @@
     "gender":"Masculino",
     "planet": "Vegita",
     "saga": "Androide"
+  },
+  {
+    "id": 55,
+    "num": "055",
+    "name": "Vegeta Power",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_super_cell.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Androide"
   }
 ]
 }

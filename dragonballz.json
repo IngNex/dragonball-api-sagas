@@ -729,17 +729,17 @@
   {
     "id": 72,
     "num": "060",
-    "name": "Trunks",
+    "name": "Cell Junior",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_junior.png",
-    "species": "Sayajin",
+    "species": "Bioandroid",
     "gender":"Masculino",
-    "planet": "Vegita",
+    "planet": "Tierra",
     "saga": "Cell"
   },
   {
     "id": 73,
     "num": "060",
-    "name": "Trunks",
+    "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_baseI.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -749,7 +749,7 @@
   {
     "id": 74,
     "num": "060",
-    "name": "Trunks",
+    "name": "Vegeta Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_ssj.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -759,7 +759,7 @@
   {
     "id": 75,
     "num": "060",
-    "name": "Trunks",
+    "name": "Goku Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/goku_ssj_100.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -769,11 +769,11 @@
   {
     "id": 76,
     "num": "060",
-    "name": "Trunks",
+    "name": "TeinShinHan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/ten_I.png",
-    "species": "Sayajin",
+    "species": "Hibrido",
     "gender":"Masculino",
-    "planet": "Vegita",
+    "planet": "Tierra",
     "saga": "Cell"
   },
   {

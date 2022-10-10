@@ -560,7 +560,7 @@
     "id": 55,
     "num": "055",
     "name": "Vegeta Super",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta_super.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_super.png",
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
@@ -569,7 +569,7 @@
   {
     "id": 56,
     "num": "056",
-    "name": "Vegeta Power",
+    "name": "Vegeta PowerMax",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_super_cell.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -577,10 +577,10 @@
     "saga": "Cell"
   },
   {
-    "id": 56,
-    "num": "056",
-    "name": "Vegeta Power",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_super_cell.png",
+    "id": 57,
+    "num": "057",
+    "name": "Trunks",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunks.png",
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",

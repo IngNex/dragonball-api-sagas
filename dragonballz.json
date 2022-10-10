@@ -779,41 +779,41 @@
   {
     "id": 77,
     "num": "060",
-    "name": "Trunks",
+    "name": "Yamcha",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/yamcha.png",
-    "species": "Sayajin",
+    "species": "Humano",
     "gender":"Masculino",
-    "planet": "Vegita",
+    "planet": "Tierra",
     "saga": "Cell"
   },
   {
     "id": 78,
     "num": "060",
-    "name": "Trunks",
+    "name": "Cell Ssj2",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_ssj2.png",
-    "species": "Sayajin",
+    "species": "Bioandroid",
     "gender":"Masculino",
-    "planet": "Vegita",
+    "planet": "Tierra",
     "saga": "Cell"
   },
   {
     "id": 79,
     "num": "060",
-    "name": "Trunks",
+    "name": "Cell Power",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_max.png",
-    "species": "Sayajin",
+    "species": "Bioandroid",
     "gender":"Masculino",
-    "planet": "Vegita",
+    "planet": "Tierra",
     "saga": "Cell"
   },
   {
     "id": 80,
     "num": "060",
-    "name": "Trunks",
+    "name": "Gohan Ssj2",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan_ssj.png",
-    "species": "Sayajin",
+    "species": "Hibrido",
     "gender":"Masculino",
-    "planet": "Vegita",
+    "planet": "Tierra",
     "saga": "Cell"
   }
 

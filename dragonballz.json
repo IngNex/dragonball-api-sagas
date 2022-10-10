@@ -549,7 +549,7 @@
   {
     "id": 54,
     "num": "054",
-    "name": "Cell II",
+    "name": "Cell fII",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_II.png",
     "species": "Nameku",
     "gender":"Masculino",
@@ -569,7 +569,7 @@
   {
     "id": 56,
     "num": "056",
-    "name": "Vegeta PowerMax",
+    "name": "Vegeta Power",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_super_cell.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -580,10 +580,40 @@
     "id": 57,
     "num": "057",
     "name": "Trunks",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunks.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk.png",
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
+    "saga": "Cell"
+  },
+  {
+    "id": 58,
+    "num": "058",
+    "name": "Krillin",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/krillin.png",
+    "species": "Humano",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Cell"
+  },
+  {
+    "id": 59,
+    "num": "059",
+    "name": "TeinShinHan",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/ten.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Cell"
+  },
+  {
+    "id": 60,
+    "num": "060",
+    "name": "N°16 Max",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/n16_power.png",
+    "species": "Humano",
+    "gender":"Masculino",
+    "planet": "Tierra",
     "saga": "Cell"
   }
 ]

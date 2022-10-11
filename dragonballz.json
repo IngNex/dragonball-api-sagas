@@ -621,7 +621,7 @@
     "num": "060",
     "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk_ssj.png",
-    "species": "Sayajin",
+    "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Vegita",
     "saga": "Cell"
@@ -629,9 +629,9 @@
   {
     "id": 62,
     "num": "060",
-    "name": "Trunks",
+    "name": "Trunks Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk_ssj_cell.png",
-    "species": "Sayajin",
+    "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Vegita",
     "saga": "Cell"
@@ -639,9 +639,9 @@
   {
     "id": 63,
     "num": "060",
-    "name": "Trunks",
+    "name": "Trunks Dankai",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk_ssjpower.png",
-    "species": "Sayajin",
+    "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Vegita",
     "saga": "Cell"
@@ -649,7 +649,7 @@
   {
     "id": 64,
     "num": "060",
-    "name": "Trunks",
+    "name": "Goku Sayan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/goku_base.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -659,7 +659,7 @@
   {
     "id": 65,
     "num": "060",
-    "name": "Trunks",
+    "name": "Goku SS",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/goku_ssj.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -669,27 +669,27 @@
   {
     "id": 66,
     "num": "060",
-    "name": "Trunks",
+    "name": "Gohan Sayan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan.png",
-    "species": "Sayajin",
+    "species": "Hibrido",
     "gender":"Masculino",
-    "planet": "Vegita",
+    "planet": "Tierra",
     "saga": "Cell"
   },
   {
     "id": 67,
     "num": "060",
-    "name": "Trunks",
+    "name": "Gohan SS",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohanssj.png",
-    "species": "Sayajin",
+    "species": "Hibrido",
     "gender":"Masculino",
-    "planet": "Vegita",
+    "planet": "Tierra",
     "saga": "Cell"
   },
   {
     "id": 68,
     "num": "060",
-    "name": "Trunks",
+    "name": "Goku Dankai",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/goku_ssjpower.png",
     "species": "Sayajin",
     "gender":"Masculino",

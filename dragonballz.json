@@ -9,7 +9,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegeta",
-    "saga": "Sayajin"
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   }, 
   {
     "id": 2,
@@ -19,8 +21,9 @@
     "species": "Nameku",
     "gender":"Masculino",
     "planet": "Namek",
-    "saga": "Sayajin"
-    
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   }, 
   {
     "id": 3,
@@ -30,7 +33,10 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Sayajin"
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg"
+
   }, 
   {
     "id": 4,
@@ -40,7 +46,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Sayajin"
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   },
   {
@@ -51,7 +59,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Sayajin"
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
     
   },
@@ -63,7 +73,9 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Sayajin"
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 7,
@@ -73,7 +85,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Sayajin"
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   },
   {
@@ -84,7 +98,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Sayajin"
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   }, 
   {
@@ -95,7 +111,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Sayajin"
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   }, 
   {
     "id": 10,
@@ -105,7 +123,9 @@
     "species": "Saibamen",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Sayajin"
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   }, 
   {
     "id": 11,
@@ -115,7 +135,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Sayajin"
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   }, 
   {
     "id": 12,
@@ -125,7 +147,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Sayajin"
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   }, 
   {
     "id": 13,
@@ -135,7 +159,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   }, 
   {
     "id": 14,
@@ -145,7 +171,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegeta",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   }, 
   {
     "id": 15,
@@ -155,7 +183,9 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   }, 
   {
@@ -166,7 +196,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   }, 
   {
@@ -177,7 +209,9 @@
     "species": "Nameku",
     "gender":"Masculino",
     "planet": "Namek",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   }, 
   {
     "id": 18,
@@ -187,7 +221,9 @@
     "species": "Nameku",
     "gender":"Masculino",
     "planet": "Namek",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   }, 
   {
     "id": 19,
@@ -197,7 +233,9 @@
     "species": "Alien",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   }, 
   {
@@ -208,7 +246,9 @@
     "species": "Alien",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   }, 
   {
@@ -219,7 +259,9 @@
     "species": "Alien",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   }, 
   {
@@ -230,7 +272,9 @@
     "species": "Alien",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   }, 
   {
@@ -241,7 +285,9 @@
     "species": "Alien",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   }, 
   {
@@ -252,7 +298,9 @@
     "species": "Alien",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   }, 
   {
@@ -263,7 +311,9 @@
     "species": "Alien",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   },
   {
@@ -274,7 +324,9 @@
     "species": "Freeza",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 27,
@@ -284,7 +336,9 @@
     "species": "Freeza",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 28,
@@ -294,7 +348,9 @@
     "species": "Freeza",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 29,
@@ -304,7 +360,9 @@
     "species": "Freeza",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 30,
@@ -314,7 +372,9 @@
     "species": "Freeza",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
     
   },
   {
@@ -325,7 +385,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 32,
@@ -335,7 +397,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 33,
@@ -345,7 +409,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Freizer"
+    "saga": "Freizer",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 34,
@@ -355,7 +421,9 @@
     "species": "Freeza",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freeza"
+    "saga": "Freeza",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 35,
@@ -365,7 +433,9 @@
     "species": "Freeza",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freeza"
+    "saga": "Freeza",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 36,
@@ -375,7 +445,9 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },{
     "id": 37,
     "num": "037",
@@ -384,7 +456,9 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 38,
@@ -394,7 +468,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 39,
@@ -404,7 +480,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 40,
@@ -414,7 +492,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 41,
@@ -424,7 +504,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 42,
@@ -434,7 +516,9 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 43,
@@ -444,7 +528,9 @@
     "species": "Nameku",
     "gender":"Masculino",
     "planet": "Namek",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 44,
@@ -454,7 +540,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 45,
@@ -464,7 +552,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 46,
@@ -474,7 +564,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 47,
@@ -484,7 +576,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 48,
@@ -494,7 +588,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 49,
@@ -504,7 +600,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 50,
@@ -514,7 +612,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 51,
@@ -524,7 +624,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 52,
@@ -534,7 +636,9 @@
     "species": "Nameku",
     "gender":"Masculino",
     "planet": "Namek",
-    "saga": "Androide"
+    "saga": "Androide",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 53,
@@ -554,7 +658,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 55,
@@ -564,7 +670,9 @@
     "species": "Nameku",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 56,
@@ -574,7 +682,9 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 57,
@@ -584,7 +694,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 58,
@@ -594,7 +706,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 59,
@@ -604,37 +718,45 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 60,
     "num": "060",
     "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk.png",
-    "species": "Sayajin",
+    "species": "Hibrido",
     "gender":"Masculino",
-    "planet": "Vegita",
-    "saga": "Cell"
+    "planet": "Tierra",
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 61,
     "num": "060",
-    "name": "Trunks",
+    "name": "Trunks Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk_ssj.png",
     "species": "Hibrido",
     "gender":"Masculino",
-    "planet": "Vegita",
-    "saga": "Cell"
+    "planet": "Tierra",
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 62,
     "num": "060",
-    "name": "Trunks Ssj",
+    "name": "Trunks Power",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk_ssj_cell.png",
     "species": "Hibrido",
     "gender":"Masculino",
-    "planet": "Vegita",
-    "saga": "Cell"
+    "planet": "Tierra",
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 63,
@@ -643,8 +765,10 @@
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk_ssjpower.png",
     "species": "Hibrido",
     "gender":"Masculino",
-    "planet": "Vegita",
-    "saga": "Cell"
+    "planet": "Tierra",
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 64,
@@ -654,7 +778,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 65,
@@ -664,7 +790,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 66,
@@ -674,7 +802,9 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 67,
@@ -684,7 +814,9 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 68,
@@ -694,7 +826,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 69,
@@ -704,7 +838,9 @@
     "species": "Bioandroid",
     "gender":"Neutral",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 70,
@@ -714,7 +850,9 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 71,
@@ -724,7 +862,9 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 72,
@@ -734,7 +874,9 @@
     "species": "Bioandroid",
     "gender":"Neutral",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 73,
@@ -744,7 +886,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 74,
@@ -754,7 +898,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 75,
@@ -764,7 +910,9 @@
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 76,
@@ -774,7 +922,9 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 77,
@@ -784,7 +934,9 @@
     "species": "Humano",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 78,
@@ -794,7 +946,9 @@
     "species": "Bioandroid",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 79,
@@ -804,7 +958,9 @@
     "species": "Bioandroid",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   },
   {
     "id": 80,
@@ -814,7 +970,9 @@
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell"
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg"
   }
 
 ]

@@ -238,6 +238,20 @@
     "weight":"58 kg",
     "transformation":"Base",
     "power":"1000"
+  },
+  {
+    "id": 1,
+    "num": "001",
+    "name": "Goku",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/goku.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Base",
+    "power":"900"
   }, 
   {
     "id": 11,

@@ -1123,6 +1123,34 @@
     "weight":"58 kg",
     "transformation":"Ssj2",
     "power":"1000"
+  },
+  {
+    "id": 80,
+    "num": "060",
+    "name": "Gohan",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/bibidi.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Ssj2",
+    "power":"1000"
+  },
+  {
+    "id": 80,
+    "num": "060",
+    "name": "Vegeta",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegeta_base.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "MajinBuu",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Ssj2",
+    "power":"1000"
   }
 
 ]

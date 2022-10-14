@@ -13,7 +13,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
-    "power":"900"
+    "power":"920"
   }, 
   {
     "id": 2,
@@ -27,21 +27,21 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
-    "power":"1000"
+    "power":"900"
   }, 
   {
     "id": 2,
     "num": "002",
     "name": "Gohan Kid",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/gohan_kid.png",
-    "species": "Nameku",
+    "species": "Hibrido",
     "gender":"Masculino",
-    "planet": "Namek",
+    "planet": "Tierra",
     "saga": "Sayajin",
-    "height":"1.70 cm",
-    "weight":"58 kg",
+    "height":"50 cm",
+    "weight":"35 kg",
     "transformation":"Base",
-    "power":"1000"
+    "power":"200"
   }, 
   {
     "id": 3,
@@ -55,7 +55,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
-    "power":"1000"
+    "power":"1200"
   },
   {
     "id": 3,
@@ -69,7 +69,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
-    "power":"1000"
+    "power":"1200"
   },
   {
     "id": 3,
@@ -83,7 +83,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
-    "power":"1000"
+    "power":"1100"
   }, 
   {
     "id": 3,
@@ -97,7 +97,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
-    "power":"1000"
+    "power":"1400"
   },
   {
     "id": 2,
@@ -125,12 +125,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
-    "power":"1000"
+    "power":"1300"
   },
   {
     "id": 3,
     "num": "009",
-    "name": "Raditz",
+    "name": "Raditz Max",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/raditz.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -139,7 +139,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
-    "power":"1000"
+    "power":"1500"
   },   
   {
     "id": 5,

@@ -1,19 +1,19 @@
 
 {
   "personages": [
-    {
+  {
     "id": 1,
     "num": "001",
     "name": "Goku",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/goku.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/gokubase.png",
     "species": "Sayajin",
     "gender":"Masculino",
-    "planet": "Vegeta",
+    "planet": "Vegita",
     "saga": "Sayajin",
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
-    "power":"1000"
+    "power":"900"
   }, 
   {
     "id": 2,
@@ -30,7 +30,119 @@
     "power":"1000"
   }, 
   {
+    "id": 2,
+    "num": "002",
+    "name": "Gohan Kid",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/gohan_kid.png",
+    "species": "Nameku",
+    "gender":"Masculino",
+    "planet": "Namek",
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Base",
+    "power":"1000"
+  }, 
+  {
     "id": 3,
+    "num": "009",
+    "name": "Raditz",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/raditz_I.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Base",
+    "power":"1000"
+  },
+  {
+    "id": 3,
+    "num": "009",
+    "name": "Goku Attack",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/goku_atack.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Power",
+    "power":"1000"
+  },
+  {
+    "id": 3,
+    "num": "009",
+    "name": "Picolo Attack",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/picolopower.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Power",
+    "power":"1000"
+  }, 
+  {
+    "id": 3,
+    "num": "009",
+    "name": "Raditz Attack",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/raditz_atack.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Power",
+    "power":"1000"
+  },
+  {
+    "id": 2,
+    "num": "002",
+    "name": "Gohan",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/gohan_I.png",
+    "species": "Nameku",
+    "gender":"Masculino",
+    "planet": "Namek",
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Base",
+    "power":"1000"
+  }, 
+  {
+    "id": 3,
+    "num": "009",
+    "name": "Picolo Power",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/picolo_power.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Power",
+    "power":"1000"
+  },
+  {
+    "id": 3,
+    "num": "009",
+    "name": "Raditz",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/raditz.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Base",
+    "power":"1000"
+  },   
+  {
+    "id": 5,
     "num": "003",
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/gohan.png",
@@ -44,7 +156,7 @@
     "power":"1000"
   }, 
   {
-    "id": 4,
+    "id": 5,
     "num": "004",
     "name": "Krillin",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/krillin.png",
@@ -58,7 +170,7 @@
     "power":"1000"
   },
   {
-    "id": 5,
+    "id": 6,
     "num": "005",
     "name": "Yamcha",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/yamcha.png",
@@ -72,7 +184,7 @@
     "power":"1000"
   },
   {
-    "id": 6,
+    "id": 7,
     "num": "006",
     "name": "TeinShinHan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/teinshinha.png",
@@ -86,7 +198,7 @@
     "power":"1000"
   },
   {
-    "id": 7,
+    "id": 8,
     "num": "007",
     "name": "Chaoz",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/chiaotzu.png",
@@ -100,7 +212,7 @@
     "power":"1000"
   },
   {
-    "id": 8,
+    "id": 9,
     "num": "008",
     "name": "Yajirobe",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/yajirobe.png",
@@ -112,21 +224,7 @@
     "weight":"58 kg",
     "transformation":"Base",
     "power":"1000"
-  }, 
-  {
-    "id": 9,
-    "num": "009",
-    "name": "Raditz",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/raditz.png",
-    "species": "Sayajin",
-    "gender":"Masculino",
-    "planet": "Vegita",
-    "saga": "Sayajin",
-    "height":"1.70 cm",
-    "weight":"58 kg",
-    "transformation":"Base",
-    "power":"1000"
-  }, 
+  },
   {
     "id": 10,
     "num": "010",
@@ -140,6 +238,20 @@
     "weight":"58 kg",
     "transformation":"Base",
     "power":"1000"
+  },
+  {
+    "id": 1,
+    "num": "001",
+    "name": "Goku",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/goku.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "Sayajin",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Base",
+    "power":"900"
   }, 
   {
     "id": 11,
@@ -1085,6 +1197,20 @@
   {
     "id": 78,
     "num": "060",
+    "name": "Satan",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/satan.png",
+    "species": "Humano",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Base",
+    "power":"990"
+  },
+  {
+    "id": 79,
+    "num": "060",
     "name": "Cell Ssj2",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_ssj2.png",
     "species": "Bioandroid",
@@ -1097,7 +1223,21 @@
     "power":"1000"
   },
   {
-    "id": 79,
+    "id": 80,
+    "num": "060",
+    "name": "Gohan Ssj2",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan_ssj_I.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "Cell",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Ssj2",
+    "power":"12 K"
+  },
+  {
+    "id": 81,
     "num": "060",
     "name": "Cell Power",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_max.png",
@@ -1111,7 +1251,7 @@
     "power":"1000"
   },
   {
-    "id": 80,
+    "id": 82,
     "num": "060",
     "name": "Gohan Ssj2",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan_ssj.png",
@@ -1121,11 +1261,11 @@
     "saga": "Cell",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"Ssj2",
-    "power":"1000"
+    "transformation":"Ssj2 Max",
+    "power":"13 K"
   },
   {
-    "id": 81,
+    "id": 83,
     "num": "060",
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/bibidi.png",
@@ -1139,7 +1279,7 @@
     "power":"1000"
   },
   {
-    "id": 82,
+    "id": 84,
     "num": "060",
     "name": "Goten Kid",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goten.png",
@@ -1153,7 +1293,7 @@
     "power":"1000"
   },
   {
-    "id": 83,
+    "id": 85,
     "num": "060",
     "name": "Goten Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goten_ssj.png",
@@ -1167,7 +1307,7 @@
     "power":"1000"
   },
   {
-    "id": 84,
+    "id": 86,
     "num": "060",
     "name": "Trunks Kid",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/trunks.png",
@@ -1181,7 +1321,7 @@
     "power":"1000"
   },
   {
-    "id": 85,
+    "id": 87,
     "num": "060",
     "name": "Trunks Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/trunks_ssj.png",
@@ -1251,7 +1391,7 @@
     "power":"10k"
   },
   {
-    "id": 89,
+    "id": 90,
     "num": "060",
     "name": "Vegeta Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegeta_ssj2.png",

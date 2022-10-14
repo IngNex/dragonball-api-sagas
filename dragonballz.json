@@ -1209,20 +1209,6 @@
     "power":"700"
   },
   {
-    "id": 86,
-    "num": "060",
-    "name": "Videl",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/videl_I.png",
-    "species": "Humano",
-    "gender":"Femenino",
-    "planet": "Tierra",
-    "saga": "MajinBoo",
-    "height":"1.20 cm",
-    "weight":"40 kg",
-    "transformation":"Base",
-    "power":"700"
-  },
-  {
     "id": 87,
     "num": "060",
     "name": "Sayaman",
@@ -1237,7 +1223,7 @@
     "power":"10k"
   },
   {
-    "id": 87,
+    "id": 88,
     "num": "060",
     "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegeta_base.png",
@@ -1251,7 +1237,21 @@
     "power":"10k"
   },
   {
-    "id": 88,
+    "id": 89,
+    "num": "060",
+    "name": "Vegeta Ssj",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegeta_ssj2.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Vegita",
+    "saga": "MajinBoo",
+    "height":"1.20 cm",
+    "weight":"40 kg",
+    "transformation":"Base",
+    "power":"10k"
+  },
+  {
+    "id": 89,
     "num": "060",
     "name": "Vegeta Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegeta_ssj2.png",

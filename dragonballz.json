@@ -1267,12 +1267,68 @@
   {
     "id": 83,
     "num": "060",
-    "name": "Gohan",
+    "name": "Bibidi",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/bibidi.png",
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
-    "saga": "Cell",
+    "saga": "MaginBoo",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Ssj2",
+    "power":"1000"
+  },
+  {
+    "id": 83,
+    "num": "060",
+    "name": "Kid Boo",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kidbuu.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "MaginBoo",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Ssj2",
+    "power":"1000"
+  },
+  {
+    "id": 83,
+    "num": "060",
+    "name": "KaioSupremo",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kai_supremo.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "MaginBoo",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Ssj2",
+    "power":"1000"
+  },
+  {
+    "id": 83,
+    "num": "060",
+    "name": "Sorth Kai",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kaifame.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "MaginBoo",
+    "height":"1.70 cm",
+    "weight":"58 kg",
+    "transformation":"Ssj2",
+    "power":"1000"
+  },
+  {
+    "id": 83,
+    "num": "060",
+    "name": "North Kai",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kainorth.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "MaginBoo",
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj2",
@@ -1405,7 +1461,7 @@
     "power":"10k"
   },
   {
-    "id": 90,
+    "id": 91,
     "num": "060",
     "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goku.png",
@@ -1419,7 +1475,7 @@
     "power":"10k"
   },
   {
-    "id": 90,
+    "id": 92,
     "num": "060",
     "name": "Goku Attack",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goku_base.png",
@@ -1433,7 +1489,7 @@
     "power":"10k"
   },
   {
-    "id": 90,
+    "id": 93,
     "num": "060",
     "name": "Vegeta Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goku_base.png",

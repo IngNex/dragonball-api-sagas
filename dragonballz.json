@@ -1337,11 +1337,11 @@
   {
     "id": 83,
     "num": "060",
-    "name": "South Kai",
+    "name": "South Kaio",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kaisouth.png",
-    "species": "Hibrido",
+    "species": "Kioshin",
     "gender":"Masculino",
-    "planet": "Tierra",
+    "planet": "Supremo",
     "saga": "MaginBoo",
     "height":"1.70 cm",
     "weight":"58 kg",
@@ -1351,7 +1351,7 @@
   {
     "id": 83,
     "num": "060",
-    "name": "Kai Boo",
+    "name": "Buu Kaio",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/buu_kaisupremo.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1365,15 +1365,15 @@
   {
     "id": 83,
     "num": "060",
-    "name": "Kai Supremo",
+    "name": "Kaio Supremo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kai_daikaioh.png",
-    "species": "Hibrido",
+    "species": "Kioshin",
     "gender":"Masculino",
-    "planet": "Tierra",
+    "planet": "Supremo",
     "saga": "MaginBoo",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"Ssj2",
+    "transformation":"Base",
     "power":"1000"
   },
   {
@@ -1477,7 +1477,7 @@
   {
     "id": 87,
     "num": "060",
-    "name": "Sayaman",
+    "name": "Gran Sayaman",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_saiyaman.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1589,15 +1589,29 @@
   {
     "id": 93,
     "num": "060",
-    "name": "Vegeta Ssj",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goku_base.png",
-    "species": "Sayajin",
+    "name": "Goten",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goten_kid.png",
+    "species": "Hibrido",
     "gender":"Masculino",
-    "planet": "Vegita",
+    "planet": "Tierra",
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "power":"10k"
+  },
+  {
+    "id": 94,
+    "num": "060",
+    "name": "Goten Ssj",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goten_kidssj.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "MajinBoo",
+    "height":"1.20 cm",
+    "weight":"40 kg",
+    "transformation":"Ssj",
     "power":"10k"
   }
 

@@ -1783,10 +1783,38 @@
     "power":"10k"
   },
   {
+    "id": 95,
+    "num": "060",
+    "name": "Trunks",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/dabura_base.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "MajinBoo",
+    "height":"1.20 cm",
+    "weight":"40 kg",
+    "transformation":"Base",
+    "power":"10k"
+  },
+  {
     "id": 96,
     "num": "060",
     "name": "Tranks Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_ssj2.png",
+    "species": "Hibrido",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "MajinBoo",
+    "height":"1.20 cm",
+    "weight":"40 kg",
+    "transformation":"Ssj",
+    "power":"10k"
+  },
+  {
+    "id": 96,
+    "num": "060",
+    "name": "Tranks Ssj",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/dabura.png",
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",

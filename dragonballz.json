@@ -3,9 +3,8 @@
   "personages": [
   {
     "id": 1,
-    "num": "001",
     "name": "Goku",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/gokubase.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/goku.png",
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
@@ -17,7 +16,6 @@
   }, 
   {
     "id": 2,
-    "num": "002",
     "name": "Piccolo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/picolo.png",
     "species": "Nameku",
@@ -30,8 +28,7 @@
     "power":"900"
   }, 
   {
-    "id": 2,
-    "num": "002",
+    "id": 3,
     "name": "Gohan Kid",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/gohan_kid.png",
     "species": "Hibrido",
@@ -44,8 +41,7 @@
     "power":"200"
   }, 
   {
-    "id": 3,
-    "num": "009",
+    "id": 4,
     "name": "Raditz",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/raditz_I.png",
     "species": "Sayajin",
@@ -58,8 +54,7 @@
     "power":"1200"
   },
   {
-    "id": 3,
-    "num": "009",
+    "id": 5,
     "name": "Goku Attack",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/goku_atack.png",
     "species": "Sayajin",
@@ -72,8 +67,7 @@
     "power":"1200"
   },
   {
-    "id": 3,
-    "num": "009",
+    "id": 6,
     "name": "Picolo Attack",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/picolopower.png",
     "species": "Sayajin",
@@ -86,8 +80,7 @@
     "power":"1100"
   }, 
   {
-    "id": 3,
-    "num": "009",
+    "id": 7,
     "name": "Raditz Attack",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/raditz_atack.png",
     "species": "Sayajin",
@@ -100,8 +93,7 @@
     "power":"1400"
   },
   {
-    "id": 2,
-    "num": "002",
+    "id": 8,
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/gohan_I.png",
     "species": "Nameku",
@@ -114,8 +106,7 @@
     "power":"1000"
   }, 
   {
-    "id": 3,
-    "num": "009",
+    "id": 9,
     "name": "Picolo Power",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/picolo_power.png",
     "species": "Sayajin",
@@ -128,8 +119,7 @@
     "power":"1300"
   },
   {
-    "id": 3,
-    "num": "009",
+    "id": 10,
     "name": "Raditz Max",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/raditz.png",
     "species": "Sayajin",
@@ -142,8 +132,7 @@
     "power":"1500"
   },   
   {
-    "id": 5,
-    "num": "003",
+    "id": 11,
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/gohan.png",
     "species": "Hibrido",
@@ -156,8 +145,7 @@
     "power":"1000"
   }, 
   {
-    "id": 5,
-    "num": "004",
+    "id": 12,
     "name": "Krillin",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/krillin.png",
     "species": "Humano",
@@ -170,8 +158,7 @@
     "power":"1000"
   },
   {
-    "id": 6,
-    "num": "005",
+    "id": 13,
     "name": "Yamcha",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/yamcha.png",
     "species": "Humano",
@@ -184,8 +171,7 @@
     "power":"1000"
   },
   {
-    "id": 7,
-    "num": "006",
+    "id": 14,
     "name": "TeinShinHan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/teinshinha.png",
     "species": "Hibrido",
@@ -198,8 +184,7 @@
     "power":"1000"
   },
   {
-    "id": 8,
-    "num": "007",
+    "id": 15,
     "name": "Chaoz",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/chiaotzu.png",
     "species": "Humano",
@@ -212,8 +197,7 @@
     "power":"1000"
   },
   {
-    "id": 9,
-    "num": "008",
+    "id": 16,
     "name": "Yajirobe",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/yajirobe.png",
     "species": "Humano",
@@ -226,8 +210,7 @@
     "power":"1000"
   },
   {
-    "id": 10,
-    "num": "010",
+    "id": 17,
     "name": "Saibamen",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/saibamen.png",
     "species": "Saibamen",
@@ -240,10 +223,9 @@
     "power":"1000"
   },
   {
-    "id": 1,
-    "num": "001",
+    "id": 18,
     "name": "Goku",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/goku.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/gokubase.png",
     "species": "Sayajin",
     "gender":"Masculino",
     "planet": "Vegita",
@@ -254,8 +236,7 @@
     "power":"900"
   }, 
   {
-    "id": 11,
-    "num": "011",
+    "id": 19,
     "name": "Napa",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/napa.png",
     "species": "Sayajin",
@@ -268,8 +249,7 @@
     "power":"1000"
   }, 
   {
-    "id": 12,
-    "num": "012",
+    "id": 20,
     "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/vegeta.png",
     "species": "Sayajin",
@@ -282,8 +262,7 @@
     "power":"1000"
   }, 
   {
-    "id": 13,
-    "num": "013",
+    "id": 21,
     "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/goku_frieze.png",
     "species": "Sayajin",
@@ -296,8 +275,7 @@
     "power":"1000"
   }, 
   {
-    "id": 14,
-    "num": "014",
+    "id": 22,
     "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/vegeta_I.png",
     "species": "Sayajin",
@@ -310,8 +288,7 @@
     "power":"1000"
   }, 
   {
-    "id": 15,
-    "num": "015",
+    "id": 23,
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/gohan_I.png",
     "species": "Hibrido",
@@ -324,8 +301,7 @@
     "power":"1000"
   }, 
   {
-    "id": 16,
-    "num": "016",
+    "id": 24,
     "name": "Krillin",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/krillin_I.png",
     "species": "Humano",
@@ -338,8 +314,7 @@
     "power":"1000"
   }, 
   {
-    "id": 17,
-    "num": "017",
+    "id": 25,
     "name": "Nail",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/nail.png",
     "species": "Nameku",
@@ -352,8 +327,7 @@
     "power":"1000"
   }, 
   {
-    "id": 18,
-    "num": "018",
+    "id": 26,
     "name": "Piccolo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/picolo_frieze.png",
     "species": "Nameku",
@@ -365,8 +339,7 @@
     "transformation":"Fusión"
   }, 
   {
-    "id": 19,
-    "num": "019",
+    "id": 27,
     "name": "Dodoria",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/dodoria.png",
     "species": "Alien",
@@ -379,8 +352,7 @@
     "power":"1000"
   }, 
   {
-    "id": 20,
-    "num": "020",
+    "id": 28,
     "name": "Zarbon",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/zarbon.png",
     "species": "Alien",
@@ -393,8 +365,7 @@
     "power":"1000"    
   }, 
   {
-    "id": 21,
-    "num": "021",
+    "id": 29,
     "name": "Guldo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/guldo.png",
     "species": "Alien",
@@ -408,8 +379,7 @@
     
   }, 
   {
-    "id": 22,
-    "num": "022",
+    "id": 30,
     "name": "Recoome",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/recoome.png",
     "species": "Alien",
@@ -423,8 +393,7 @@
     
   }, 
   {
-    "id": 23,
-    "num": "023",
+    "id": 31,
     "name": "Burter",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/burter.png",
     "species": "Alien",
@@ -438,8 +407,7 @@
     
   }, 
   {
-    "id": 24,
-    "num": "024",
+    "id": 32,
     "name": "Jeice",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/jeice.png",
     "species": "Alien",
@@ -453,8 +421,7 @@
     
   }, 
   {
-    "id": 25,
-    "num": "025",
+    "id": 33,
     "name": "Giyu",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/giyu.png",
     "species": "Alien",
@@ -468,8 +435,7 @@
     
   },
   {
-    "id": 26,
-    "num": "026",
+    "id": 34,
     "name": "Freezer",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/friezer.png",
     "species": "Freeza",
@@ -482,8 +448,7 @@
     "power":"1000"
   },
   {
-    "id": 27,
-    "num": "027",
+    "id": 35,
     "name": "Freezer F2",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/friezer_II.png",
     "species": "Freeza",
@@ -496,8 +461,7 @@
     "power":"1000"
   },
   {
-    "id": 28,
-    "num": "028",
+    "id": 36,
     "name": "Freezer F3",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/friezer_III.png",
     "species": "Freeza",
@@ -510,8 +474,7 @@
     "power":"1000"
   },
   {
-    "id": 29,
-    "num": "029",
+    "id": 37,
     "name": "Freezer F4",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/freezer.png",
     "species": "Freeza",
@@ -524,8 +487,7 @@
     "power":"1000"
   },
   {
-    "id": 30,
-    "num": "030",
+    "id": 38,
     "name": "Freezer Max",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/freezer100.png",
     "species": "Freeza",
@@ -539,8 +501,7 @@
     
   },
   {
-    "id": 31,
-    "num": "031",
+    "id": 39,
     "name": "Goku Kaioken",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/goku_kaioken.png",
     "species": "Sayajin",
@@ -553,8 +514,7 @@
     "power":"1000"
   },
   {
-    "id": 32,
-    "num": "032",
+    "id": 40,
     "name": "Goku Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/goku_sssj.png",
     "species": "Sayajin",
@@ -567,8 +527,7 @@
     "power":"1000"
   },
   {
-    "id": 33,
-    "num": "033",
+    "id": 41,
     "name": "Goku SsjMax",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/goku_sssjmax.png",
     "species": "Sayajin",
@@ -581,8 +540,7 @@
     "power":"1000"
   },
   {
-    "id": 34,
-    "num": "034",
+    "id": 42,
     "name": "Meca Friezer",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/freezermecha.png",
     "species": "Freeza",
@@ -595,8 +553,7 @@
     "power":"1000"
   },
   {
-    "id": 35,
-    "num": "035",
+    "id": 43,
     "name": "King Cold",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/king_cold.png",
     "species": "Freeza",
@@ -609,8 +566,7 @@
     "power":"1000"
   },
   {
-    "id": 36,
-    "num": "036",
+    "id": 44,
     "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/trunks_fut.png",
     "species": "Hibrido",
@@ -622,8 +578,7 @@
     "transformation":"Base",
     "power":"1000"
   },{
-    "id": 37,
-    "num": "037",
+    "id": 45,
     "name": "Trunks Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/trunks_futssj.png",
     "species": "Hibrido",
@@ -636,8 +591,7 @@
     "power":"1000"
   },
   {
-    "id": 38,
-    "num": "038",
+    "id": 46,
     "name": "Goku Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_freezer/gokussj.png",
     "species": "Sayajin",
@@ -650,8 +604,7 @@
     "power":"1000"
   },
   {
-    "id": 39,
-    "num": "039",
+    "id": 47,
     "name": "Yamcha",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/yancha_andr.png",
     "species": "Humano",
@@ -664,8 +617,7 @@
     "power":"1000"
   },
   {
-    "id": 40,
-    "num": "040",
+    "id": 48,
     "name": "Krillin",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/krillin_andro.png",
     "species": "Humano",
@@ -677,8 +629,7 @@
     "transformation":"Base"
   },
   {
-    "id": 41,
-    "num": "041",
+    "id": 49,
     "name": "TeinShinHan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/ten_android.png",
     "species": "Humano",
@@ -691,8 +642,7 @@
     "power":"1000"
   },
   {
-    "id": 42,
-    "num": "042",
+    "id": 50,
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/gohan_andr.png",
     "species": "Hibrido",
@@ -705,8 +655,7 @@
     "power":"1000"
   },
   {
-    "id": 43,
-    "num": "043",
+    "id": 50,
     "name": "Piccolo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/piccolo_cami_I.png",
     "species": "Nameku",
@@ -719,8 +668,7 @@
     "power":"1000"
   },
   {
-    "id": 44,
-    "num": "044",
+    "id": 52,
     "name": "Dr. Gero",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/n19.png",
     "species": "Androide",
@@ -733,8 +681,7 @@
     "power":"1000"
   },
   {
-    "id": 45,
-    "num": "045",
+    "id": 53,
     "name": "Androide N° 20",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/n20.png",
     "species": "Androide",
@@ -747,8 +694,7 @@
     "power":"1000"
   },
   {
-    "id": 46,
-    "num": "046",
+    "id": 54,
     "name": "Goku Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_ssj_andrII.png",
     "species": "Sayajin",
@@ -761,8 +707,7 @@
     "power":"1000"
   },
   {
-    "id": 47,
-    "num": "047",
+    "id": 55,
     "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta_base.png",
     "species": "Sayajin",
@@ -775,8 +720,7 @@
     "power":"1000"
   },
   {
-    "id": 48,
-    "num": "048",
+    "id": 56,
     "name": "Vegeta Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/vegeta_ssj.png",
     "species": "Sayajin",
@@ -789,8 +733,7 @@
     "power":"1000"
   },
   {
-    "id": 49,
-    "num": "049",
+    "id": 57,
     "name": "Androide N°17",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/n17.png",
     "species": "Androide",
@@ -803,8 +746,7 @@
     "power":"1000"
   },
   {
-    "id": 50,
-    "num": "050",
+    "id": 58,
     "name": "Androide N°18",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/n18.png",
     "species": "Androide",
@@ -817,8 +759,7 @@
     "power":"1000"
   },
   {
-    "id": 51,
-    "num": "051",
+    "id": 59,
     "name": "Androide N°16",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/n16.png",
     "species": "Humano",
@@ -831,8 +772,7 @@
     "power":"1000"
   },
   {
-    "id": 52,
-    "num": "052",
+    "id": 60,
     "name": "Piccolo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/piccolo_cami_andro.png",
     "species": "Nameku",
@@ -845,8 +785,7 @@
     "power":"1000"
   },
   {
-    "id": 53,
-    "num": "053",
+    "id": 61,
     "name": "Cell",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell.png",
     "species": "Nameku",
@@ -859,8 +798,7 @@
     "power":"1000"
   },
   {
-    "id": 54,
-    "num": "054",
+    "id": 62,
     "name": "N°16 Max",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/n16_power.png",
     "species": "Humano",
@@ -873,8 +811,7 @@
     "power":"1000"
   },
   {
-    "id": 55,
-    "num": "055",
+    "id": 63,
     "name": "Cell fII",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_II.png",
     "species": "Nameku",
@@ -887,8 +824,7 @@
     "power":"1000"
   },
   {
-    "id": 56,
-    "num": "056",
+    "id": 64,
     "name": "TeinShinHan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/ten.png",
     "species": "Hibrido",
@@ -901,8 +837,7 @@
     "power":"1000"
   },
   {
-    "id": 57,
-    "num": "057",
+    "id": 65,
     "name": "Krillin",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/krillin.png",
     "species": "Humano",
@@ -915,8 +850,7 @@
     "power":"1000"
   },
   {
-    "id": 58,
-    "num": "058",
+    "id": 66,
     "name": "Vegeta Super",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_super.png",
     "species": "Sayajin",
@@ -929,8 +863,7 @@
     "power":"1000"
   },
   {
-    "id": 59,
-    "num": "059",
+    "id": 67,
     "name": "Vegeta Power",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_super_cell.png",
     "species": "Sayajin",
@@ -943,8 +876,7 @@
     "power":"1000"
   },
   {
-    "id": 60,
-    "num": "060",
+    "id": 68,
     "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk.png",
     "species": "Hibrido",
@@ -957,8 +889,7 @@
     "power":"1000"
   },
   {
-    "id": 61,
-    "num": "060",
+    "id": 69,
     "name": "Trunks Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk_ssj.png",
     "species": "Hibrido",
@@ -971,8 +902,7 @@
     "power":"1000"
   },
   {
-    "id": 62,
-    "num": "060",
+    "id": 70,
     "name": "Trunks Power",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk_ssj_cell.png",
     "species": "Hibrido",
@@ -985,8 +915,7 @@
     "power":"1000"
   },
   {
-    "id": 63,
-    "num": "060",
+    "id": 71,
     "name": "Trunks Dankai",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk_ssjpower.png",
     "species": "Hibrido",
@@ -999,8 +928,7 @@
     "power":"1000"
   },
   {
-    "id": 64,
-    "num": "060",
+    "id": 72,
     "name": "Goku Sayan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/goku_base.png",
     "species": "Sayajin",
@@ -1013,8 +941,7 @@
     "power":"1000"
   },
   {
-    "id": 65,
-    "num": "060",
+    "id": 73,
     "name": "Goku SS",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/goku_ssj.png",
     "species": "Sayajin",
@@ -1027,8 +954,7 @@
     "power":"1000"
   },
   {
-    "id": 66,
-    "num": "060",
+    "id": 74,
     "name": "Gohan Sayan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan.png",
     "species": "Hibrido",
@@ -1041,8 +967,7 @@
     "power":"1000"
   },
   {
-    "id": 67,
-    "num": "060",
+    "id": 75,
     "name": "Gohan SS",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohanssj.png",
     "species": "Hibrido",
@@ -1055,8 +980,7 @@
     "power":"1000"
   },
   {
-    "id": 68,
-    "num": "060",
+    "id": 76,
     "name": "Goku Dankai",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/goku_ssjpower.png",
     "species": "Sayajin",
@@ -1069,8 +993,7 @@
     "power":"1000"
   },
   {
-    "id": 69,
-    "num": "060",
+    "id": 77,
     "name": "Cell Perfect",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_III.png",
     "species": "Bioandroid",
@@ -1083,8 +1006,7 @@
     "power":"1000"
   },
   {
-    "id": 70,
-    "num": "060",
+    "id": 78,
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan_base.png",
     "species": "Hibrido",
@@ -1097,8 +1019,7 @@
     "power":"1000"
   },
   {
-    "id": 71,
-    "num": "060",
+    "id": 79,
     "name": "Gohan Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan_Issj.png",
     "species": "Hibrido",
@@ -1111,8 +1032,7 @@
     "power":"1000"
   },
   {
-    "id": 72,
-    "num": "060",
+    "id": 80,
     "name": "Cell Junior",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_junior.png",
     "species": "Bioandroid",
@@ -1125,8 +1045,7 @@
     "power":"1000"
   },
   {
-    "id": 73,
-    "num": "060",
+    "id": 81,
     "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_baseI.png",
     "species": "Sayajin",
@@ -1139,8 +1058,7 @@
     "power":"1000"
   },
   {
-    "id": 74,
-    "num": "060",
+    "id": 82,
     "name": "Vegeta Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_ssj.png",
     "species": "Sayajin",
@@ -1153,8 +1071,7 @@
     "power":"1000"
   },
   {
-    "id": 75,
-    "num": "060",
+    "id": 83,
     "name": "Goku Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/goku_ssj_100.png",
     "species": "Sayajin",
@@ -1167,8 +1084,7 @@
     "power":"1000"
   },
   {
-    "id": 76,
-    "num": "060",
+    "id": 84,
     "name": "TeinShinHan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/ten_I.png",
     "species": "Hibrido",
@@ -1181,8 +1097,7 @@
     "power":"1000"
   },
   {
-    "id": 77,
-    "num": "060",
+    "id": 85,
     "name": "Yamcha",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/yamcha.png",
     "species": "Humano",
@@ -1195,8 +1110,7 @@
     "power":"1000"
   },
   {
-    "id": 78,
-    "num": "060",
+    "id": 86,
     "name": "Satan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/satan.png",
     "species": "Humano",
@@ -1209,8 +1123,7 @@
     "power":"990"
   },
   {
-    "id": 79,
-    "num": "060",
+    "id": 87,
     "name": "Cell Ssj2",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_ssj2.png",
     "species": "Bioandroid",
@@ -1223,8 +1136,7 @@
     "power":"1000"
   },
   {
-    "id": 80,
-    "num": "060",
+    "id": 88,
     "name": "Gohan Ssj2",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan_ssj_I.png",
     "species": "Hibrido",
@@ -1237,8 +1149,7 @@
     "power":"12 K"
   },
   {
-    "id": 81,
-    "num": "060",
+    "id": 89,
     "name": "Cell Power",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_max.png",
     "species": "Bioandroid",
@@ -1251,8 +1162,7 @@
     "power":"1000"
   },
   {
-    "id": 82,
-    "num": "060",
+    "id": 90,
     "name": "Gohan Ssj2",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan_ssj.png",
     "species": "Hibrido",
@@ -1265,8 +1175,7 @@
     "power":"13 K"
   },
   {
-    "id": 83,
-    "num": "060",
+    "id": 91,
     "name": "Bibidi",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/bibidi.png",
     "species": "Alien",
@@ -1279,8 +1188,7 @@
     "power":"1000"
   },
   {
-    "id": 83,
-    "num": "060",
+    "id": 92,
     "name": "Kid Boo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kidbuu.png",
     "species": "Demonio",
@@ -1293,8 +1201,7 @@
     "power":"1000"
   },
   {
-    "id": 83,
-    "num": "060",
+    "id": 93,
     "name": "KaioSupremo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kai_supremo.png",
     "species": "Kioshin",
@@ -1307,8 +1214,7 @@
     "power":"1000"
   },
   {
-    "id": 83,
-    "num": "060",
+    "id": 94,
     "name": "SorthE Kai",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kaifame.png",
     "species": "Kioshin",
@@ -1321,8 +1227,7 @@
     "power":"1000"
   },
   {
-    "id": 83,
-    "num": "060",
+    "id": 95,
     "name": "North Kai",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kainorth.png",
     "species": "Kioshin",
@@ -1335,8 +1240,7 @@
     "power":"1000"
   },
   {
-    "id": 83,
-    "num": "060",
+    "id": 96,
     "name": "South Kaio",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kaisouth.png",
     "species": "Kioshin",
@@ -1349,8 +1253,7 @@
     "power":"1000"
   },
   {
-    "id": 83,
-    "num": "060",
+    "id": 97,
     "name": "Buu Kaio",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/buu_kaisupremo.png",
     "species": "Demonio",
@@ -1363,8 +1266,7 @@
     "power":"1000"
   },
   {
-    "id": 83,
-    "num": "060",
+    "id": 98,
     "name": "Kaio Supremo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kai_daikaioh.png",
     "species": "Kioshin",
@@ -1377,8 +1279,7 @@
     "power":"1000"
   },
   {
-    "id": 83,
-    "num": "060",
+    "id": 99,
     "name": "Gohan Joven",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_base.png",
     "species": "Hibrido",
@@ -1391,8 +1292,7 @@
     "power":"1000"
   },
   {
-    "id": 83,
-    "num": "060",
+    "id": 100,
     "name": "Gohan Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_ssj.png",
     "species": "Hibrido",
@@ -1405,8 +1305,7 @@
     "power":"1000"
   },
   {
-    "id": 84,
-    "num": "060",
+    "id": 101,
     "name": "Goten Kid",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goten.png",
     "species": "Hibrido",
@@ -1419,8 +1318,7 @@
     "power":"1000"
   },
   {
-    "id": 85,
-    "num": "060",
+    "id": 102,
     "name": "Goten Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goten_ssj.png",
     "species": "Hibrido",
@@ -1433,8 +1331,7 @@
     "power":"1000"
   },
   {
-    "id": 86,
-    "num": "060",
+    "id": 103,
     "name": "Trunks Kid",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/trunks.png",
     "species": "Hibrido",
@@ -1447,8 +1344,7 @@
     "power":"1000"
   },
   {
-    "id": 87,
-    "num": "060",
+    "id": 104,
     "name": "Trunks Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/trunks_ssj.png",
     "species": "Hibrido",
@@ -1461,8 +1357,7 @@
     "power":"1000"
   },
   {
-    "id": 86,
-    "num": "060",
+    "id": 105,
     "name": "Videl",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/videl_I.png",
     "species": "Humano",
@@ -1475,8 +1370,7 @@
     "power":"700"
   },
   {
-    "id": 87,
-    "num": "060",
+    "id": 106,
     "name": "Gran Sayaman",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_saiyaman.png",
     "species": "Hibrido",
@@ -1489,8 +1383,7 @@
     "power":"10k"
   },
   {
-    "id": 87,
-    "num": "060",
+    "id": 107,
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohanI.png",
     "species": "Hibrido",
@@ -1503,8 +1396,7 @@
     "power":"10k"
   },
   {
-    "id": 87,
-    "num": "060",
+    "id": 108,
     "name": "Gohan Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohanssj.png",
     "species": "Hibrido",
@@ -1517,8 +1409,7 @@
     "power":"10k"
   },
   {
-    "id": 88,
-    "num": "060",
+    "id": 109,
     "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegeta_base.png",
     "species": "Sayajin",
@@ -1531,8 +1422,7 @@
     "power":"10k"
   },
   {
-    "id": 89,
-    "num": "060",
+    "id": 110,
     "name": "Vegeta Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegeta_ssj.png",
     "species": "Sayajin",
@@ -1545,8 +1435,7 @@
     "power":"10k"
   },
   {
-    "id": 90,
-    "num": "060",
+    "id": 111,
     "name": "Vegeta Ssj2",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegeta_ssj2.png",
     "species": "Sayajin",
@@ -1559,8 +1448,7 @@
     "power":"10k"
   },
   {
-    "id": 91,
-    "num": "060",
+    "id": 112,
     "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goku.png",
     "species": "Sayajin",
@@ -1573,8 +1461,7 @@
     "power":"10k"
   },
   {
-    "id": 92,
-    "num": "060",
+    "id": 113,
     "name": "Goku Attack",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goku_base.png",
     "species": "Sayajin",
@@ -1587,8 +1474,7 @@
     "power":"10k"
   },
   {
-    "id": 93,
-    "num": "060",
+    "id": 114,
     "name": "Goten",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goten_kid.png",
     "species": "Hibrido",
@@ -1601,8 +1487,7 @@
     "power":"10k"
   },
   {
-    "id": 94,
-    "num": "060",
+    "id": 115,
     "name": "Goten Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goten_kidssj.png",
     "species": "Hibrido",
@@ -1615,8 +1500,7 @@
     "power":"10k"
   },
   {
-    "id": 95,
-    "num": "060",
+    "id": 116,
     "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/trunks_kid.png",
     "species": "Hibrido",
@@ -1629,8 +1513,7 @@
     "power":"10k"
   },
   {
-    "id": 96,
-    "num": "060",
+    "id": 117,
     "name": "Tranks Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/trunks_kidssj.png",
     "species": "Hibrido",
@@ -1643,8 +1526,7 @@
     "power":"10k"
   },
   {
-    "id": 91,
-    "num": "060",
+    "id": 118,
     "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/Spopovich.png",
     "species": "Sayajin",
@@ -1657,8 +1539,7 @@
     "power":"10k"
   },
   {
-    "id": 92,
-    "num": "060",
+    "id": 119,
     "name": "Goku Attack",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/yamu.png",
     "species": "Sayajin",
@@ -1671,8 +1552,7 @@
     "power":"10k"
   },
   {
-    "id": 93,
-    "num": "060",
+    "id": 120,
     "name": "Goten",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/videl.png",
     "species": "Hibrido",
@@ -1685,8 +1565,7 @@
     "power":"10k"
   },
   {
-    "id": 94,
-    "num": "060",
+    "id": 121,
     "name": "Goten Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kibito.png",
     "species": "Hibrido",
@@ -1699,8 +1578,7 @@
     "power":"10k"
   },
   {
-    "id": 95,
-    "num": "060",
+    "id": 122,
     "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_sayan_base.png",
     "species": "Hibrido",
@@ -1713,8 +1591,7 @@
     "power":"10k"
   },
   {
-    "id": 95,
-    "num": "060",
+    "id": 123,
     "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_sayan_ssj.png",
     "species": "Hibrido",
@@ -1727,8 +1604,7 @@
     "power":"10k"
   },
   {
-    "id": 95,
-    "num": "060",
+    "id": 124,
     "name": "Babidi",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/bibidi.png",
     "species": "Alien",
@@ -1741,8 +1617,7 @@
     "power":"10k"
   },
   {
-    "id": 96,
-    "num": "060",
+    "id": 125,
     "name": "Tranks Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/yakon.png",
     "species": "Hibrido",
@@ -1755,8 +1630,7 @@
     "power":"10k"
   },
   {
-    "id": 96,
-    "num": "060",
+    "id": 126,
     "name": "Tranks Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/puipui.png",
     "species": "Hibrido",
@@ -1769,8 +1643,7 @@
     "power":"10k"
   },
   {
-    "id": 95,
-    "num": "060",
+    "id": 127,
     "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/dabura_base.png",
     "species": "Hibrido",
@@ -1783,8 +1656,7 @@
     "power":"10k"
   },
   {
-    "id": 96,
-    "num": "060",
+    "id": 128,
     "name": "Tranks Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/dabura.png",
     "species": "Hibrido",
@@ -1797,8 +1669,7 @@
     "power":"10k"
   },
   {
-    "id": 95,
-    "num": "060",
+    "id": 129,
     "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_sayan.png",
     "species": "Hibrido",
@@ -1811,8 +1682,7 @@
     "power":"10k"
   },
   {
-    "id": 96,
-    "num": "060",
+    "id": 130,
     "name": "Gohan Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohanssj2.png",
     "species": "Hibrido",
@@ -1825,8 +1695,7 @@
     "power":"10k"
   },
   {
-    "id": 96,
-    "num": "060",
+    "id": 131,
     "name": "Gohan Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_ssj2.png",
     "species": "Hibrido",
@@ -1839,8 +1708,7 @@
     "power":"10k"
   },
   {
-    "id": 96,
-    "num": "060",
+    "id": 132,
     "name": "Buu Supremo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/majinbuu_g.png",
     "species": "Hibrido",
@@ -1853,8 +1721,7 @@
     "power":"10k"
   },
   {
-    "id": 96,
-    "num": "060",
+    "id": 133,
     "name": "Gohan Ssj",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_ssj2.png",
     "species": "Hibrido",
@@ -1867,17 +1734,16 @@
     "power":"10k"
   },
   {
-    "id": 96,
-    "num": "060",
+    "id": 134,
     "name": "Gohan Ssj",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/kaisupremo/kaisupremo.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kaisupremo.png",
     "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Tierra",
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
-    "transformation":"Ssj",
+    "transformation":"Base",
     "power":"10k"
   }
 

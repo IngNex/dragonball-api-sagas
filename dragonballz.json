@@ -1527,7 +1527,7 @@
   },
   {
     "id": 118,
-    "name": "Goku",
+    "name": "Spopovich",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/Spopovich.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -1540,7 +1540,7 @@
   },
   {
     "id": 119,
-    "name": "Goku Attack",
+    "name": "Yamu",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/yamu.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -1553,7 +1553,7 @@
   },
   {
     "id": 120,
-    "name": "Goten",
+    "name": "Videl",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/videl.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1562,11 +1562,11 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
-    "power":"10k"
+    "power":"900"
   },
   {
     "id": 121,
-    "name": "Goten Ssj",
+    "name": "Kibito",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kibito.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1579,7 +1579,7 @@
   },
   {
     "id": 122,
-    "name": "Trunks",
+    "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_sayan_base.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1592,7 +1592,7 @@
   },
   {
     "id": 123,
-    "name": "Trunks",
+    "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_sayan_ssj.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1606,7 +1606,7 @@
   {
     "id": 124,
     "name": "Babidi",
-    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/bibidi.png",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/babidi.png",
     "species": "Alien",
     "gender":"Masculino",
     "planet": "Tierra",
@@ -1618,7 +1618,7 @@
   },
   {
     "id": 125,
-    "name": "Tranks Ssj",
+    "name": "Yakon",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/yakon.png",
     "species": "Hibrido",
     "gender":"Masculino",

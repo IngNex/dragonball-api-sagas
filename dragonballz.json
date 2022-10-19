@@ -2148,8 +2148,45 @@
     "weight":"40 kg",
     "transformation":"SSJ2 MAX",
     "power":"10k"
+  },
+  {
+    "id": 134,
+    "name": "Kid Buu",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kid_buu.png",
+    "species": "Demonio",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "MajinBoo",
+    "height":"1.20 cm",
+    "weight":"40 kg",
+    "transformation":"Base",
+    "power":"10k"
+  },
+  {
+    "id": 134,
+    "name": "Kid Buu",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kid_buuI.png",
+    "species": "Demonio",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "MajinBoo",
+    "height":"1.20 cm",
+    "weight":"40 kg",
+    "transformation":"Max",
+    "power":"10k"
+  },
+  {
+    "id": 131,
+    "name": "Goku",
+    "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goku_ssj_3.png",
+    "species": "Sayajin",
+    "gender":"Masculino",
+    "planet": "Tierra",
+    "saga": "MajinBoo",
+    "height":"1.20 cm",
+    "weight":"40 kg",
+    "transformation":"SSJ3",
+    "power":"10k"
   }
-
-  
 ]
 }

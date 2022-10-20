@@ -280,7 +280,9 @@
     "transformation":"Base",
     "state":"dark",
     "power":"1000"
-  }, 
+  }
+  ],
+  "freezer":[
   {
     "id": 21,
     "name": "Goku",
@@ -578,7 +580,9 @@
     "transformation":"SSJ Max",
     "state":"heroe",
     "power":"1000"
-  },
+  }
+  ],
+  "androide":[
   {
     "id": 42,
     "name": "Meca Friezer",
@@ -586,7 +590,7 @@
     "species": "Freeza",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freeza",
+    "saga": "Androide",
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Mechanic",
@@ -600,7 +604,7 @@
     "species": "Freeza",
     "gender":"Masculino",
     "planet": "Freeza",
-    "saga": "Freeza",
+    "saga": "Androide",
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Fase2",
@@ -841,7 +845,9 @@
     "transformation":"AbsCamisama",
     "state":"heroe",
     "power":"1000"
-  },
+  }
+  ],
+  "cell":[
   {
     "id": 61,
     "name": "Cell",
@@ -1261,7 +1267,9 @@
     "transformation":"Ssj2 Max",
     "state":"heroe",
     "power":"13 K"
-  },
+  }
+  ],
+  "maginboo":[
   {
     "id": 91,
     "name": "Bibidi",
@@ -2354,5 +2362,5 @@
     "state":"heroe",
     "power":"10k"
   }
-]
+  ]
 }

@@ -12,6 +12,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"920"
   }, 
   {
@@ -25,11 +26,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"900"
   }, 
   {
     "id": 3,
-    "name": "Gohan Kid",
+    "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/gohan_kid.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -38,6 +40,7 @@
     "height":"50 cm",
     "weight":"35 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"200"
   }, 
   {
@@ -51,11 +54,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"dark",
     "power":"1200"
   },
   {
     "id": 5,
-    "name": "Goku Attack",
+    "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/goku_atack.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -64,11 +68,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"heroe",
     "power":"1200"
   },
   {
     "id": 6,
-    "name": "Picolo Attack",
+    "name": "Picolo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/picolopower.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -77,11 +82,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"heroe",
     "power":"1100"
   }, 
   {
     "id": 7,
-    "name": "Raditz Attack",
+    "name": "Raditz",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/raditz_atack.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -90,24 +96,26 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"dark",
     "power":"1400"
   },
   {
     "id": 8,
     "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/gohan_I.png",
-    "species": "Nameku",
+    "species": "Hibrido",
     "gender":"Masculino",
     "planet": "Namek",
     "saga": "Sayajin",
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   }, 
   {
     "id": 9,
-    "name": "Picolo Power",
+    "name": "Picolo",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/picolo_power.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -116,11 +124,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"heroe",
     "power":"1300"
   },
   {
     "id": 10,
-    "name": "Raditz Max",
+    "name": "Raditz",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_sayajin/raditz.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -128,7 +137,8 @@
     "saga": "Sayajin",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"Base",
+    "transformation":"Max",
+    "state":"dark",
     "power":"1500"
   },   
   {
@@ -142,6 +152,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   }, 
   {
@@ -155,6 +166,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -168,6 +180,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -181,6 +194,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -194,6 +208,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -207,6 +222,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -220,6 +236,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -233,6 +250,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"900"
   }, 
   {
@@ -246,6 +264,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"dark",
     "power":"1000"
   }, 
   {
@@ -259,6 +278,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"dark",
     "power":"1000"
   }, 
   {
@@ -272,6 +292,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Zenkai",
+    "state":"heroe",
     "power":"1000"
   }, 
   {
@@ -285,6 +306,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Zenkai",
+    "state":"dark",
     "power":"1000"
   }, 
   {
@@ -298,6 +320,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Zenkai",
+    "state":"heroe",
     "power":"1000"
   }, 
   {
@@ -311,6 +334,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Zenkai",
+    "state":"heroe",
     "power":"1000"
   }, 
   {
@@ -324,6 +348,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"heroe",
     "power":"1000"
   }, 
   {
@@ -349,6 +374,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"dark",
     "power":"1000"
   }, 
   {
@@ -362,6 +388,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"dark",
     "power":"1000"    
   }, 
   {
@@ -375,6 +402,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"dark",
     "power":"1000"
     
   }, 
@@ -389,6 +417,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"dark",
     "power":"1000"
     
   }, 
@@ -403,6 +432,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"dark",
     "power":"1000"
     
   }, 
@@ -417,6 +447,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"dark",
     "power":"1000"
     
   }, 
@@ -431,6 +462,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"dark",
     "power":"1000"
     
   },
@@ -445,6 +477,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -458,6 +491,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Fase2",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -471,6 +505,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Fase3",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -484,6 +519,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Final",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -497,6 +533,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Max100%",
+    "state":"dark",
     "power":"1000"
     
   },
@@ -511,6 +548,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Kaioken",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -524,6 +562,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"SSayajin",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -537,6 +576,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"SSJ Max",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -550,6 +590,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Mechanic",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -563,6 +604,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Fase2",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -576,6 +618,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   },{
     "id": 45,
@@ -588,6 +631,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -601,6 +645,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -614,6 +659,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -639,6 +685,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -652,6 +699,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -665,6 +713,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -678,11 +727,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Robot",
+    "state":"dark",
     "power":"1000"
   },
   {
     "id": 53,
-    "name": "Androide N° 20",
+    "name": "Androide N°20",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/n20.png",
     "species": "Androide",
     "gender":"Masculino",
@@ -691,11 +741,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Robot",
+    "state":"dark",
     "power":"1000"
   },
   {
     "id": 54,
-    "name": "Goku Ssj",
+    "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/goku_ssj_andrII.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -704,6 +755,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -717,6 +769,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -730,6 +783,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"SSayajin",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -743,6 +797,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Android",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -756,19 +811,21 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Android",
+    "state":"dark",
     "power":"1000"
   },
   {
     "id": 59,
     "name": "Androide N°16",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/img/n16.png",
-    "species": "Humano",
+    "species": "Androide",
     "gender":"Masculino",
     "planet": "Tierra",
     "saga": "Androide",
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Robot",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -781,20 +838,22 @@
     "saga": "Androide",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"Fusión",
+    "transformation":"AbsCamisama",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 61,
     "name": "Cell",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell.png",
-    "species": "Nameku",
+    "species": "Bioandroid",
     "gender":"Masculino",
     "planet": "Tierra",
     "saga": "Cell",
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -808,19 +867,21 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"dark",
     "power":"1000"
   },
   {
     "id": 63,
-    "name": "Cell fII",
+    "name": "Cell II",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_II.png",
-    "species": "Nameku",
+    "species": "Bioandroid",
     "gender":"Masculino",
     "planet": "Tierra",
     "saga": "Cell",
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Fase2",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -834,6 +895,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -847,11 +909,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 66,
-    "name": "Vegeta Super",
+    "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_super.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -859,12 +922,13 @@
     "saga": "Cell",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"Dankai",
+    "transformation":"Ssj Super",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 67,
-    "name": "Vegeta Power",
+    "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/vegeta_super_cell.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -872,7 +936,8 @@
     "saga": "Cell",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"DankaiMax",
+    "transformation":"Ssj Max",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -885,7 +950,8 @@
     "saga": "Cell",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"Base",
+    "transformation":"Sayan",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -899,11 +965,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 70,
-    "name": "Trunks Power",
+    "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk_ssj_cell.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -912,11 +979,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"SsjPower",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 71,
-    "name": "Trunks Dankai",
+    "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/trunk_ssjpower.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -925,11 +993,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"SsjDankai",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 72,
-    "name": "Goku Sayan",
+    "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/goku_base.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -937,12 +1006,13 @@
     "saga": "Cell",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"Base",
+    "transformation":"Sayan",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 73,
-    "name": "Goku SS",
+    "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/goku_ssj.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -951,11 +1021,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 74,
-    "name": "Gohan Sayan",
+    "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -963,12 +1034,13 @@
     "saga": "Cell",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"Base",
+    "transformation":"Sayan",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 75,
-    "name": "Gohan SS",
+    "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohanssj.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -977,11 +1049,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 76,
-    "name": "Goku Dankai",
+    "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/goku_ssjpower.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -989,12 +1062,13 @@
     "saga": "Cell",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"SsjDankai",
+    "transformation":"Dankai",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 77,
-    "name": "Cell Perfect",
+    "name": "Cell",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_III.png",
     "species": "Bioandroid",
     "gender":"Neutral",
@@ -1003,6 +1077,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Perfect",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -1016,11 +1091,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 79,
-    "name": "Gohan Ssj",
+    "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan_Issj.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1029,11 +1105,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 80,
-    "name": "Cell Junior",
+    "name": "Cell",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_junior.png",
     "species": "Bioandroid",
     "gender":"Neutral",
@@ -1041,7 +1118,8 @@
     "saga": "Cell",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"BioPower",
+    "transformation":"Junior",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -1055,6 +1133,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -1068,6 +1147,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -1081,6 +1161,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"SsjMax",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -1094,6 +1175,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -1107,6 +1189,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Power",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -1120,11 +1203,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"990"
   },
   {
     "id": 87,
-    "name": "Cell Ssj2",
+    "name": "Cell",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_ssj2.png",
     "species": "Bioandroid",
     "gender":"Masculino",
@@ -1133,11 +1217,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj2",
+    "state":"dark",
     "power":"1000"
   },
   {
     "id": 88,
-    "name": "Gohan Ssj2",
+    "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan_ssj_I.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1146,11 +1231,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj2",
+    "state":"heroe",
     "power":"12 K"
   },
   {
     "id": 89,
-    "name": "Cell Power",
+    "name": "Cell",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/cell_max.png",
     "species": "Bioandroid",
     "gender":"Masculino",
@@ -1159,11 +1245,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"PerfectMax",
+    "state":"dark",
     "power":"1000"
   },
   {
     "id": 90,
-    "name": "Gohan Ssj2",
+    "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_cell/gohan_ssj.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1172,6 +1259,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj2 Max",
+    "state":"heroe",
     "power":"13 K"
   },
   {
@@ -1185,6 +1273,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -1198,6 +1287,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -1211,6 +1301,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Divino",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -1224,6 +1315,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Divino",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -1237,6 +1329,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Divino",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -1250,6 +1343,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Divino",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -1263,6 +1357,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Absorción",
+    "state":"dark",
     "power":"1000"
   },
   {
@@ -1276,11 +1371,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Divino",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 99,
-    "name": "Gohan Joven",
+    "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_base.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1288,12 +1384,13 @@
     "saga": "MaginBoo",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"Base",
+    "transformation":"Joven",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 100,
-    "name": "Gohan Ssj",
+    "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_ssj.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1302,11 +1399,12 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 101,
-    "name": "Goten Kid",
+    "name": "Goten",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goten.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1314,7 +1412,8 @@
     "saga": "MajinBoo",
     "height":"90 cm",
     "weight":"58 kg",
-    "transformation":"Base",
+    "transformation":"Kid",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -1328,11 +1427,12 @@
     "height":"90 cm",
     "weight":"58 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 103,
-    "name": "Trunks Kid",
+    "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/trunks.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1340,12 +1440,13 @@
     "saga": "MajinBoo",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"Base",
+    "transformation":"Kid",
+    "state":"heroe",
     "power":"1000"
   },
   {
     "id": 104,
-    "name": "Trunks Ssj",
+    "name": "Trunks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/trunks_ssj.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1354,6 +1455,7 @@
     "height":"1.70 cm",
     "weight":"58 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"1000"
   },
   {
@@ -1367,11 +1469,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"700"
   },
   {
     "id": 106,
-    "name": "Gran Sayaman",
+    "name": "GranSayaman",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohan_saiyaman.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1380,6 +1483,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1393,11 +1497,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 108,
-    "name": "Gohan Ssj",
+    "name": "Gohan",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gohanssj.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1406,6 +1511,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1419,11 +1525,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 110,
-    "name": "Vegeta Ssj",
+    "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegeta_ssj.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -1432,11 +1539,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 111,
-    "name": "Vegeta Ssj2",
+    "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegeta_ssj2.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -1444,7 +1552,8 @@
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
-    "transformation":"Base",
+    "transformation":"Ssj2",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1458,11 +1567,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 113,
-    "name": "Goku Attack",
+    "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goku_base.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -1470,7 +1580,8 @@
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
-    "transformation":"Base",
+    "transformation":"Power",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1484,11 +1595,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 115,
-    "name": "Goten Ssj",
+    "name": "Goten",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goten_kidssj.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1497,6 +1609,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1510,11 +1623,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 117,
-    "name": "Tranks Ssj",
+    "name": "Tranks",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/trunks_kidssj.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1523,6 +1637,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1536,6 +1651,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1549,6 +1665,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1562,6 +1679,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"900"
   },
   {
@@ -1575,6 +1693,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1588,6 +1707,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1601,6 +1721,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1614,6 +1735,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1627,6 +1749,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1640,6 +1763,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1653,6 +1777,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1666,6 +1791,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Power",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1679,6 +1805,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1692,6 +1819,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj2",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1705,11 +1833,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj2 Max",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 131,
-    "name": "Goku Angel",
+    "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goku_ssj_2.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1717,12 +1846,13 @@
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
-    "transformation":"Ssj Max",
+    "transformation":"Ssj",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 131,
-    "name": "Goku Angel",
+    "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/goku_ssj2.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1731,11 +1861,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj2 Max",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 131,
-    "name": "Vegeta M",
+    "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegetassj_majin.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1743,12 +1874,13 @@
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
-    "transformation":"Ssj Max",
+    "transformation":"Ssj Magin",
+    "state":"dark",
     "power":"10k"
   },
   {
     "id": 131,
-    "name": "Vegeta M",
+    "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegeta_m.png",
     "species": "Hibrido",
     "gender":"Masculino",
@@ -1757,11 +1889,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj2 Max",
+    "state":"dark",
     "power":"10k"
   },
   {
     "id": 131,
-    "name": "Goku Angel",
+    "name": "Goku",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/gokussj2.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -1770,11 +1903,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj2 Limit",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 131,
-    "name": "Vegeta M",
+    "name": "Vegeta",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegeta_ssj2.png",
     "species": "Sayajin",
     "gender":"Masculino",
@@ -1783,6 +1917,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj2 Limit",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1796,6 +1931,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Supremo",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1809,11 +1945,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Ssj2 Max",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 134,
-    "name": "Sup Kaioshin",
+    "name": "Shin",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kaisupremo.png",
     "species": "Kioshin",
     "gender":"Masculino",
@@ -1822,11 +1959,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Divino",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 134,
-    "name": "Magin Buu",
+    "name": "MaginBuu",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/majinbuu_go.png",
     "species": "Demonio",
     "gender":"Masculino",
@@ -1835,6 +1973,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Supremo Max",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1848,6 +1987,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Evil",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1861,6 +2001,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1873,7 +2014,8 @@
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
-    "transformation":"Fusion B",
+    "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1886,7 +2028,8 @@
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
-    "transformation":"Fusion SSj",
+    "transformation":"SSj",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1899,7 +2042,8 @@
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
-    "transformation":"Fusion Ssj2",
+    "transformation":"Ssj2",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1912,7 +2056,8 @@
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
-    "transformation":"Base",
+    "transformation":"Power",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1926,6 +2071,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Power",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -1939,6 +2085,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"SSJ3",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1952,6 +2099,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"SSJ3 Max",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -1965,11 +2113,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Mistico",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 134,
-    "name": "Guu Gotenks",
+    "name": "Buu",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/Buu_abdGotenks.png",
     "species": "Demonio",
     "gender":"Masculino",
@@ -1978,11 +2127,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"AbsGotenks",
+    "state":"dark",
     "power":"10k"
   },
   {
     "id": 134,
-    "name": "Buu Piccolo",
+    "name": "Buu",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/Buu_abdPiccolo.png",
     "species": "Demonio",
     "gender":"Masculino",
@@ -1991,11 +2141,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"AbsPiccolo",
+    "state":"dark",
     "power":"10k"
   },
   {
     "id": 134,
-    "name": "Buu Gohan",
+    "name": "Buu",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/Buu_abdGohan.png",
     "species": "Demonio",
     "gender":"Masculino",
@@ -2004,6 +2155,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"AbsGohan",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -2017,6 +2169,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -2030,6 +2183,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -2043,6 +2197,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -2056,6 +2211,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -2069,6 +2225,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Base",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -2082,11 +2239,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"Power",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 131,
-    "name": "Vegito Dulce",
+    "name": "Vegito",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/vegito_dulce.png",
     "species": "Fusion",
     "gender":"Masculino",
@@ -2094,7 +2252,8 @@
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
-    "transformation":"Base",
+    "transformation":"Dulce",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -2108,11 +2267,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"SSJ",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 134,
-    "name": "Buu Gohan",
+    "name": "Buu",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/Buu_abdGohanmax.png",
     "species": "Demonio",
     "gender":"Masculino",
@@ -2121,6 +2281,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"AbsGohanMax",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -2134,6 +2295,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"SSJ2",
+    "state":"heroe",
     "power":"10k"
   },
   {
@@ -2147,11 +2309,12 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"SSJ2 MAX",
+    "state":"heroe",
     "power":"10k"
   },
   {
     "id": 134,
-    "name": "Kid Buu",
+    "name": "Buu",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kid_buu.png",
     "species": "Demonio",
     "gender":"Masculino",
@@ -2159,12 +2322,13 @@
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
-    "transformation":"Base",
+    "transformation":"Kid",
+    "state":"dark",
     "power":"10k"
   },
   {
     "id": 134,
-    "name": "Kid Buu",
+    "name": "Buu",
     "img": "https://raw.githubusercontent.com/IngNex/dragonball-api-sagas/master/assets/saga_majinbuu/kid_buuI.png",
     "species": "Demonio",
     "gender":"Masculino",
@@ -2172,7 +2336,8 @@
     "saga": "MajinBoo",
     "height":"1.20 cm",
     "weight":"40 kg",
-    "transformation":"Max",
+    "transformation":"Kid Max",
+    "state":"dark",
     "power":"10k"
   },
   {
@@ -2186,6 +2351,7 @@
     "height":"1.20 cm",
     "weight":"40 kg",
     "transformation":"SSJ3",
+    "state":"heroe",
     "power":"10k"
   }
 ]

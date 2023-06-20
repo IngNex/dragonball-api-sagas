@@ -672,7 +672,9 @@
     "saga": "Androide",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"Base"
+    "transformation":"Base",
+    "state":"heroe",
+    "power":"1000"
   },
   {
     "id": 49,

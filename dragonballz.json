@@ -361,7 +361,9 @@
     "saga": "Freezer",
     "height":"1.70 cm",
     "weight":"58 kg",
-    "transformation":"Fusión"
+    "transformation":"Fusión",
+    "state":"heroe",
+    "power":"1200"
   }, 
   {
     "id": 27,
